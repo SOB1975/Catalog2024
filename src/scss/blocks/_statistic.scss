@@ -1,13 +1,9 @@
 // style from categorystat.html
 .statistic {
   display: grid;
-  grid-template-columns: 1fr;
   gap: 10px;
+  grid-template-columns: 1fr;
   padding: 0 30px;
-
-  @include computer-sm {
-    // grid-template-columns: 1fr;
-  }
 
   @include mobile-sm {
     display: none;
@@ -23,18 +19,15 @@
   }
 
   &__box {
+    border: 1px solid $bglborder;
     display: grid;
     grid-template-columns: 1fr;
-    // gap: 30px;
-    border: 1px solid $bglborder;
-    // padding: 10px;
-
   }
 
   &__main-header {
-    text-align: center;
-    font-weight: 700;
     font-size: 24px;
+    font-weight: 700;
+    text-align: center;
     text-transform: uppercase;
 
     @include mobile-sm {
@@ -44,21 +37,6 @@
 
   &__container {
     display: grid;
-    // grid-template-columns: .8fr .8fr 1.2fr 1.5fr;
-    // grid-template-columns: .8fr .8fr 1.2fr 1.5fr;
-
-    @include mobile {
-      // grid-template-columns: 1fr 1fr;
-    }
-
-    @include mobile-sm {
-      grid-template-columns: 1fr;
-    }
-  }
-
-  &__container--two {
-    // display: grid;
-    grid-template-columns: 1fr 1fr;
 
     @include mobile-sm {
       grid-template-columns: 1fr;
@@ -66,17 +44,11 @@
   }
 
   &__item {
-    // display: grid;
-    // grid-template-columns: 1fr 1fr;
-    display: flex;
-    justify-content: space-between;
-    font-family: var(--font-titles);
     border-bottom: 1px solid $bglborder;
+    display: flex;
+    font-family: var(--font-titles);
+    justify-content: space-between;
     padding: 5px 10px 0 10px;
-    // border-top: 1px solid $bg-dark;
-    // border-left: 1px solid $bg-dark;
-    // padding-bottom: 10px;
-    // padding-top: 10px;
 
     &:first-child {
       border-top: 2px solid $bglborder;
@@ -87,20 +59,20 @@
     }
 
     @include mobile {
+
       &:last-child {
         border-left: 0px solid transparent;
       }
-    }
 
+    }
 
   }
 
   &__header {
     font-size: 16px;
     font-weight: 700;
-    text-align: center;
-    // border-bottom: 1px solid $bg-dark;
     padding-bottom: 5px;
+    text-align: center;
 
     @include mobile-sm {
       font-size: 14px;
@@ -111,13 +83,13 @@
   &__info {
     display: flex;
     justify-content: center;
-    // align-items: center;
     padding-top: 5px;
 
     span {
       font-size: 16px;
       font-weight: 700;
     }
+
   }
 }
 
