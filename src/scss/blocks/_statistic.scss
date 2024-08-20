@@ -1,7 +1,7 @@
 // from categorystat.html
 .statistic {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
   gap: 30px;
   padding: 20px 30px;
 
@@ -14,9 +14,11 @@
   }
 
   &__box {
-    // display: grid;
+    display: grid;
+    grid-template-columns: 1fr;
     // gap: 30px;
     border: 1px solid $bg-dark;
+    // padding: 10px;
 
   }
 
@@ -33,7 +35,8 @@
 
   &__container {
     display: grid;
-    grid-template-columns: .8fr .8fr 1.2fr 1.5fr;
+    // grid-template-columns: .8fr .8fr 1.2fr 1.5fr;
+    // grid-template-columns: .8fr .8fr 1.2fr 1.5fr;
 
     @include mobile {
       grid-template-columns: 1fr 1fr;
@@ -54,14 +57,24 @@
   }
 
   &__item {
+    // display: grid;
+    // grid-template-columns: 1fr 1fr;
+    display: flex;
+    justify-content: space-between;
     font-family: var(--font-titles);
-    border-top: 1px solid $bg-dark;
-    border-left: 1px solid $bg-dark;
-    padding-bottom: 10px;
-    padding-top: 10px;
+    border-bottom: 1px solid $bglborder;
+    padding: 5px 10px 0 10px;
+    // border-top: 1px solid $bg-dark;
+    // border-left: 1px solid $bg-dark;
+    // padding-bottom: 10px;
+    // padding-top: 10px;
 
     &:first-child {
-      border-left: 0px solid transparent;
+      border-top: 2px solid $bglborder;
+    }
+
+    &:last-child {
+      border-bottom: 0px solid transparent;
     }
 
     @include mobile {
@@ -70,16 +83,14 @@
       }
     }
 
-    // &:last-child {
-    //   border-left: 0px solid transparent;
-    // }
+
   }
 
   &__header {
     font-size: 16px;
     font-weight: 700;
     text-align: center;
-    border-bottom: 1px solid $bg-dark;
+    // border-bottom: 1px solid $bg-dark;
     padding-bottom: 5px;
 
     @include mobile-sm {
