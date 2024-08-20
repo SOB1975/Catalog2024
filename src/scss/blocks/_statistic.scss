@@ -1,23 +1,32 @@
-// from categorystat.html
+// style from categorystat.html
 .statistic {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 30px;
-  padding: 20px 30px;
+  gap: 10px;
+  padding: 0 30px;
 
   @include computer-sm {
-    grid-template-columns: 1fr;
+    // grid-template-columns: 1fr;
   }
 
   @include mobile-sm {
     display: none;
   }
 
+  &__title {
+    font-size: 24px;
+    font-weight: 700;
+
+    @include mobile-sm {
+      display: none;
+    }
+  }
+
   &__box {
     display: grid;
     grid-template-columns: 1fr;
     // gap: 30px;
-    border: 1px solid $bg-dark;
+    border: 1px solid $bglborder;
     // padding: 10px;
 
   }
@@ -39,7 +48,7 @@
     // grid-template-columns: .8fr .8fr 1.2fr 1.5fr;
 
     @include mobile {
-      grid-template-columns: 1fr 1fr;
+      // grid-template-columns: 1fr 1fr;
     }
 
     @include mobile-sm {

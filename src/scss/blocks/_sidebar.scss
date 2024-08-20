@@ -3,7 +3,7 @@
   display: flex;
   justify-content: space-between;
   flex-direction: column;
-  margin: 20px 30px;
+  margin: 20px 30px 0 30px;
   border-radius: 10px;
 
   @include mobile-sm {
@@ -84,7 +84,7 @@
 
 
   &__title {
-    font-size: 18px;
+    font-size: 24px;
     font-weight: 700;
     margin-bottom: 10px;
 
