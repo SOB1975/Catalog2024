@@ -1,0 +1,30 @@
+// for swiper in index.html
+.card {
+  border: 2px solid $bg-dark;
+  // border: 2px solid $bglborder;
+  border-radius: 10px;
+
+  &__img {
+    display: block !important;
+    width: 100% !important;
+    padding: 30px !important;
+  }
+
+  &__link {
+    display: block;
+    color: var(--text-color);
+    font-weight: 700;
+    text-align: center;
+    padding: 10px;
+
+    &:after {
+      content: "";
+      position: absolute;
+      left: 0px;
+      top: 0px;
+      width: 100%;
+      height: 100%;
+      color: var(--black);
+    }
+  }
+}

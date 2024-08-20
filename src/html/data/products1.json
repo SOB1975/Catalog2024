@@ -1,0 +1,166 @@
+[
+  
+    {
+    "img": "coins/russia/yubilee/10rubm/2000/politruk.jpg",
+    "md": "mmd.jpg",
+    "text": "10 рублей 2000",
+    "title": "55-я годовщина Победы в Великой Отечественной войне 1941-1945 гг",
+    "desc":  "Стоимость:",
+    "price": "99",
+    "count": "3",
+    "info": "В наличии",
+    "color": "product__status-circle--green",
+    "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0004"
+  },
+  {
+    "img": "coins/russia/yubilee/10rubm/2000/politruk.jpg",
+    "md": "spmd-m.jpg",
+    "text": "10 рублей 2000",
+    "title": "55-я годовщина Победы в Великой Отечественной войне 1941-1945 гг",
+    "desc":  "Стоимость:",
+    "price": "59",
+    "count": "6",
+    "info": "В наличии",
+    "color": "product__status-circle--green",
+    "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0004"
+  },
+  {
+    "img": "coins/russia/yubilee/10rubm/2001/gagarin.jpg",
+    "md": "mmd.jpg",
+    "text": "10 рублей 2001",
+    "title": "40-летие космического полета Ю.А. Гагарина",
+    "desc":  "Стоимость:",
+    "price": "69",
+    "count": "3",
+    "info": "В наличии",
+    "color": "product__status-circle--green",
+    "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0005"
+  },
+  {
+    "img": "coins/russia/yubilee/10rubm/2001/gagarin.jpg",
+    "md": "spmd-m.jpg",
+    "text": "10 рублей 2001",
+    "title": "40-летие космического полета Ю.А. Гагарина",
+    "desc":  "Стоимость:",
+    "price": "69",
+    "count": "8",
+    "info": "В наличии",
+    "color": "product__status-circle--green",
+    "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0005"
+  },
+  {
+    "img": "coins/russia/yubilee/10rubm/2002/military.jpg",
+    "md": "mmd.jpg",
+    "text": "10 рублей 2002",
+    "title": "Вооруженные силы",
+    "desc":  "Стоимость:",
+    "price": "189",
+    "count": "8",
+    "info": "В наличии",
+    "color": "product__status-circle--green",
+    "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0009"
+  },
+  {
+    "img": "coins/russia/yubilee/10rubm/2002/finance.jpg",
+    "md": "spmd-m.jpg",
+    "text": "10 рублей 2002",
+    "title": "Министерство финансов",
+    "desc":  "Стоимость:",
+    "price": "189",
+    "count": "7",
+    "info": "В наличии",
+    "color": "product__status-circle--green",
+    "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0013"
+  },
+  {
+    "img": "coins/russia/yubilee/10rubm/2002/obraz.jpg",
+    "md": "mmd.jpg",
+    "text": "10 рублей 2002",
+    "title": "Министерство образования",
+    "desc":  "Стоимость:",
+    "price": "189",
+    "count": "8",
+    "info": "В наличии",
+    "color": "product__status-circle--green",
+    "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0015"
+  },
+  {
+    "img": "coins/russia/yubilee/10rubm/2002/ekonom_razv.jpg",
+    "md": "spmd-m.jpg",
+    "text": "10 рублей 2002",
+    "title": "Министерство экономического развития и торговли",
+    "desc":  "Стоимость:",
+    "price": "189",
+    "count": "7",
+    "info": "В наличии",
+    "color": "product__status-circle--green",
+    "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0014"
+  },
+  {
+    "img": "coins/russia/yubilee/10rubm/2002/mid_rf.jpg",
+    "md": "spmd-m.jpg",
+    "text": "10 рублей 2002",
+    "title": "МИД",
+    "desc":  "Стоимость:",
+    "price": "189",
+    "count": "6",
+    "info": "В наличии",
+    "color": "product__status-circle--green",
+    "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0010"
+  },
+  {
+    "img": "coins/russia/yubilee/10rubm/2002/mvd.jpg",
+    "md": "mmd.jpg",
+    "text": "10 рублей 2002",
+    "title": "МВД",
+    "desc":  "Стоимость:",
+    "price": "189",
+    "count": "7",
+    "info": "В наличии",
+    "color": "product__status-circle--green",
+    "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0012"
+  },
+  {
+    "img": "coins/russia/yubilee/10rubm/2002/yust.jpg",
+    "md": "spmd-m.jpg",
+    "text": "10 рублей 2002",
+    "title": "Министерство юстиции",
+    "desc":  "Стоимость:",
+    "price": "189",
+    "count": "3",
+    "info": "В наличии",
+    "color": "product__status-circle--green",
+    "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0011"
+  },
+  {
+    "img": "coins/russia/yubilee/10rubm/2002/derbent.jpg",
+    "md": "mmd.jpg",
+    "text": "10 рублей 20002",
+    "title": "Дербент",
+    "desc":  "Стоимость:",
+    "price": "189",
+    "count": "3",
+    "info": "В наличии",
+    "color": "product__status-circle--green",
+    "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0006"
+  },
+  {
+    "img": "coins/russia/yubilee/10rubm/2002/kostroma.jpg",
+    "md": "spmd-m.jpg",
+    "text": "10 рублей 2002",
+    "title": "Кострома",
+    "desc":  "Стоимость:",
+    "price": "240",
+    "count": "6",
+    "info": "В наличии",
+    "color": "product__status-circle--green",
+    "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0007"
+  }
+  
+  
+  
+  
+  
+  
+  
+]

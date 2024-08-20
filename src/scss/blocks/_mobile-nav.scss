@@ -1,0 +1,54 @@
+.mobile {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  width: 100%;
+  transform: translateX(-50%);
+  display: none;
+  gap: 20px;
+  padding: 0 10px;
+  z-index: 10005;
+
+  @include mobile-sm {
+    display: flex;
+  }
+
+  &__series {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3px 20px;
+    width: 80%;
+    border: 2px solid $bg-dark;
+    background: $bg-border-accordion;
+    border-radius: 20px;
+    z-index: 10001;
+    transition: all 0.2s ease-in;
+  }
+
+  &__filter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    border: 2px solid $bg-dark;
+    background: $bg-border-accordion;
+    border-radius: 20px;
+    transition: all 0.2s ease-in;
+  }
+
+
+  &__text {
+    font-weight: 700;
+  }
+
+  &__icon {
+    width: 24px;
+    height: 24px;
+    fill: black;
+    stroke: black;
+    transform: rotate(180deg);
+  }
+
+
+}

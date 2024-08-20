@@ -1,0 +1,772 @@
+<!DOCTYPE html>
+<!-- Главное меню открывается при нажатии кнопки каталог-->
+<div class="popup-box">
+
+  <div class="popup-box__top">
+
+    <button class="popup-box__close" id="PopupClose">
+      <svg class="popup-box__top-icon">
+        <use href="./img/svgsprite/sprite.symbol.svg#close_round_icon"></use>
+      </svg>
+    </button>
+
+  </div>
+
+  <div class="popup-box__main">
+
+    <aside class="aside">
+
+      <nav class="aside__nav">
+
+        <ul class="aside__nav-list">
+
+          <li class="aside__nav-item">
+
+            <a class="aside__nav-link" id="ad-one" href="#!">
+              <span>One</span>
+              <svg class="aside__nav-icon">
+                <use href="./img/svgsprite/sprite.symbol.svg#arrow_navigation_icon"></use>
+              </svg>
+            </a>
+
+          </li>
+
+          <li class="aside__nav-item">
+
+            <a class="aside__nav-link" id="ad-two" href="#!">
+              <span>Two</span>
+              <svg class="aside__nav-icon">
+                <use href="./img/svgsprite/sprite.symbol.svg#arrow_navigation_icon"></use>
+              </svg>
+            </a>
+
+          </li>
+
+          <li class="aside__nav-item">
+
+            <a class="aside__nav-link" id="ad-three" href="#!">
+              <span>Three</span>
+              <svg class="aside__nav-icon">
+                <use href="./img/svgsprite/sprite.symbol.svg#arrow_navigation_icon"></use>
+              </svg>
+            </a>
+
+          </li>
+
+        </ul>
+
+      </nav>
+
+    </aside>
+
+    <div class="right-wrapper">
+
+      <nav class="aside-right" id="asr-one">
+
+        <h1 class="aside-right__title">Main header one</h1>
+        <h2 class="aside-right__title-second">Two header</h2>
+
+        <div class="aside-right__box">
+
+          <div class="aside-right__col">
+
+            <h3 class="aside-right__col-title">Title One</h3>
+
+            <ul class="aside-right__list">
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">One</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Two</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Three</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Four</a>
+              </li>
+
+            </ul>
+          </div>
+
+          <div class="aside-right__col">
+
+            <h3 class="aside-right__col-title">Title Two</h3>
+
+            <ul class="aside-right__list">
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">One</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Two</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Three</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Four</a>
+              </li>
+
+            </ul>
+          </div>
+
+          <div class="aside-right__col">
+
+            <h3 class="aside-right__col-title">Title Three</h3>
+
+            <ul class="aside-right__list">
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">One</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Two</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Three</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Four</a>
+              </li>
+
+            </ul>
+          </div>
+
+          <div class="aside-right__col">
+
+            <h3 class="aside-right__col-title">Title Four</h3>
+
+            <ul class="aside-right__list">
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">One</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Two</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Three</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Four</a>
+              </li>
+
+            </ul>
+          </div>
+
+          <div class="aside-right__col">
+
+            <h3 class="aside-right__col-title">Title Five</h3>
+
+            <ul class="aside-right__list">
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">One</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Two</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Three</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Four</a>
+              </li>
+
+            </ul>
+          </div>
+
+          <div class="aside-right__col">
+
+            <h3 class="aside-right__col-title">Title Six</h3>
+
+            <ul class="aside-right__list">
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">One</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Two</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Three</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Four</a>
+              </li>
+
+            </ul>
+          </div>
+
+          <div class="aside-right__col">
+
+            <h3 class="aside-right__col-title">Title Seven</h3>
+
+            <ul class="aside-right__list">
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">One</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Two</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Three</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Four</a>
+              </li>
+
+            </ul>
+          </div>
+
+          <div class="aside-right__col">
+
+            <h3 class="aside-right__col-title">Title Eight</h3>
+
+            <ul class="aside-right__list">
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">One</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Two</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Three</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Four</a>
+              </li>
+
+            </ul>
+          </div>
+
+          <div class="aside-right__col">
+
+            <h3 class="aside-right__col-title">Title Nine</h3>
+
+            <ul class="aside-right__list">
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">One</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Two</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Three</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Four</a>
+              </li>
+
+            </ul>
+          </div>
+
+        </div>
+      </nav>
+
+      <nav class="aside-right none" id="asr-two">
+
+        <h1 class="aside-right__title">Main header two</h1>
+        <h2 class="aside-right__title-second">Two header</h2>
+
+        <div class="aside-right__box">
+
+          <div class="aside-right__col">
+
+            <h3 class="aside-right__col-title">Title One</h3>
+
+            <ul class="aside-right__list">
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">One</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Two</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Three</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Four</a>
+              </li>
+
+            </ul>
+          </div>
+
+          <div class="aside-right__col">
+
+            <h3 class="aside-right__col-title">Title Two</h3>
+
+            <ul class="aside-right__list">
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">One</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Two</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Three</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Four</a>
+              </li>
+
+            </ul>
+          </div>
+
+          <div class="aside-right__col">
+
+            <h3 class="aside-right__col-title">Title Three</h3>
+
+            <ul class="aside-right__list">
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">One</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Two</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Three</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Four</a>
+              </li>
+
+            </ul>
+          </div>
+
+          <div class="aside-right__col">
+
+            <h3 class="aside-right__col-title">Title Four</h3>
+
+            <ul class="aside-right__list">
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">One</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Two</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Three</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Four</a>
+              </li>
+
+            </ul>
+          </div>
+
+          <div class="aside-right__col">
+
+            <h3 class="aside-right__col-title">Title Five</h3>
+
+            <ul class="aside-right__list">
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">One</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Two</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Three</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Four</a>
+              </li>
+
+            </ul>
+          </div>
+
+          <div class="aside-right__col">
+
+            <h3 class="aside-right__col-title">Title Six</h3>
+
+            <ul class="aside-right__list">
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">One</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Two</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Three</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Four</a>
+              </li>
+
+            </ul>
+          </div>
+
+          <div class="aside-right__col">
+
+            <h3 class="aside-right__col-title">Title Seven</h3>
+
+            <ul class="aside-right__list">
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">One</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Two</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Three</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Four</a>
+              </li>
+
+            </ul>
+          </div>
+
+          <div class="aside-right__col">
+
+            <h3 class="aside-right__col-title">Title Eight</h3>
+
+            <ul class="aside-right__list">
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">One</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Two</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Three</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Four</a>
+              </li>
+
+            </ul>
+          </div>
+
+          <div class="aside-right__col">
+
+            <h3 class="aside-right__col-title">Title Nine</h3>
+
+            <ul class="aside-right__list">
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">One</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Two</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Three</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Four</a>
+              </li>
+
+            </ul>
+          </div>
+
+        </div>
+      </nav>
+
+      <nav class="aside-right none" id="asr-three">
+
+        <h1 class="aside-right__title">Main header three</h1>
+        <h2 class="aside-right__title-second">Two header</h2>
+
+        <div class="aside-right__box">
+
+          <div class="aside-right__col">
+
+            <h3 class="aside-right__col-title">Title One</h3>
+
+            <ul class="aside-right__list">
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">One</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Two</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Three</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Four</a>
+              </li>
+
+            </ul>
+          </div>
+
+          <div class="aside-right__col">
+
+            <h3 class="aside-right__col-title">Title Two</h3>
+
+            <ul class="aside-right__list">
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">One</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Two</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Three</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Four</a>
+              </li>
+
+            </ul>
+          </div>
+
+          <div class="aside-right__col">
+
+            <h3 class="aside-right__col-title">Title Three</h3>
+
+            <ul class="aside-right__list">
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">One</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Two</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Three</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Four</a>
+              </li>
+
+            </ul>
+          </div>
+
+          <div class="aside-right__col">
+
+            <h3 class="aside-right__col-title">Title Four</h3>
+
+            <ul class="aside-right__list">
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">One</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Two</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Three</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Four</a>
+              </li>
+
+            </ul>
+          </div>
+
+          <div class="aside-right__col">
+
+            <h3 class="aside-right__col-title">Title Five</h3>
+
+            <ul class="aside-right__list">
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">One</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Two</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Three</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Four</a>
+              </li>
+
+            </ul>
+          </div>
+
+          <div class="aside-right__col">
+
+            <h3 class="aside-right__col-title">Title Six</h3>
+
+            <ul class="aside-right__list">
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">One</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Two</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Three</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Four</a>
+              </li>
+
+            </ul>
+          </div>
+
+          <div class="aside-right__col">
+
+            <h3 class="aside-right__col-title">Title Seven</h3>
+
+            <ul class="aside-right__list">
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">One</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Two</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Three</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Four</a>
+              </li>
+
+            </ul>
+          </div>
+
+          <div class="aside-right__col">
+
+            <h3 class="aside-right__col-title">Title Eight</h3>
+
+            <ul class="aside-right__list">
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">One</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Two</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Three</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Four</a>
+              </li>
+
+            </ul>
+          </div>
+
+          <div class="aside-right__col">
+
+            <h3 class="aside-right__col-title">Title Nine</h3>
+
+            <ul class="aside-right__list">
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">One</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Two</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Three</a>
+              </li>
+
+              <li class="aside-right__item">
+                <a href="#" class="aside-right__link">Four</a>
+              </li>
+
+            </ul>
+          </div>
+
+        </div>
+      </nav>
+
+    </div>
+  </div>
+
+</div>

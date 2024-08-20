@@ -1,0 +1,17 @@
+.filter {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px rgba(170, 189, 206, 0.25);
+  padding: 10px 20px;
+  background-color: $white;
+  margin-bottom: 10px;
+  z-index: 10004;
+
+  @include mobile-sm {
+    padding: 20px;
+    width: 100%;
+  }
+
+}

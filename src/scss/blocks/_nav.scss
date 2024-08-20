@@ -1,0 +1,14 @@
+.nav {
+  font-size: 18px;
+}
+
+.nav__list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+
+  @include mobile {
+    gap: 10px;
+  }
+}

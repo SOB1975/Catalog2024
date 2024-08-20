@@ -1,0 +1,114 @@
+// from categorystat.html
+.statistic {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+  padding: 20px 30px;
+
+  @include computer-sm {
+    grid-template-columns: 1fr;
+  }
+
+  @include mobile-sm {
+    display: none;
+  }
+
+  &__box {
+    // display: grid;
+    // gap: 30px;
+    border: 1px solid $bg-dark;
+
+  }
+
+  &__main-header {
+    text-align: center;
+    font-weight: 700;
+    font-size: 24px;
+    text-transform: uppercase;
+
+    @include mobile-sm {
+      font-size: 20px;
+    }
+  }
+
+  &__container {
+    display: grid;
+    grid-template-columns: .8fr .8fr 1.2fr 1.5fr;
+
+    @include mobile {
+      grid-template-columns: 1fr 1fr;
+    }
+
+    @include mobile-sm {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  &__container--two {
+    // display: grid;
+    grid-template-columns: 1fr 1fr;
+
+    @include mobile-sm {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  &__item {
+    font-family: var(--font-titles);
+    border-top: 1px solid $bg-dark;
+    border-left: 1px solid $bg-dark;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+    &:first-child {
+      border-left: 0px solid transparent;
+    }
+
+    @include mobile {
+      &:last-child {
+        border-left: 0px solid transparent;
+      }
+    }
+
+    // &:last-child {
+    //   border-left: 0px solid transparent;
+    // }
+  }
+
+  &__header {
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+    border-bottom: 1px solid $bg-dark;
+    padding-bottom: 5px;
+
+    @include mobile-sm {
+      font-size: 14px;
+    }
+
+  }
+
+  &__info {
+    display: flex;
+    justify-content: center;
+    // align-items: center;
+    padding-top: 5px;
+
+    span {
+      font-size: 16px;
+      font-weight: 700;
+    }
+  }
+}
+
+.statistic.visible {
+  display: grid;
+}
+
+#statistic {
+  display: none;
+
+  @include mobile-sm {
+    display: block;
+  }
+}

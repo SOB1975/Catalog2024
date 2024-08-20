@@ -1,0 +1,16 @@
+// for info.html
+.info {
+  margin-top: 90px;
+
+  &__intro {
+    text-align: justify;
+  }
+
+  &__text {
+    font-size: 18px;
+  }
+
+  strong {
+    padding-left: 20px;
+  }
+}

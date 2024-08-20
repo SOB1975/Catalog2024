@@ -1,0 +1,50 @@
+.logo {
+  display: flex;
+  position: relative;
+
+  @include mobile {
+    display: none;
+  }
+
+  &__item {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  &__item--one {
+    right: 180px;
+  }
+
+  &__item--two {
+    right: 150px;
+  }
+
+  &__item--three {
+    right: 120px;
+  }
+
+  &__item--four {
+    right: 90px;
+  }
+
+  &__item--five {
+    right: 60px;
+  }
+
+  &__item--six {
+    right: 30px;
+  }
+
+  &__item--seven {
+    right: 0px;
+  }
+
+  &__img {
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+  }
+}
