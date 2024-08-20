@@ -1,12 +1,20 @@
 .products {
   position: relative;
   display: grid;
-  // grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 10px;
   padding: 30px;
 
-  @include tablet {
-    // grid-template-columns: repeat(3, 1fr);
+  @include computer-sm {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  @include mobile {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @include mobile-sm {
+    grid-template-columns: 1fr;
   }
 }
 
@@ -14,10 +22,10 @@
   position: relative;
   // background-color: $bg-menu;
   height: 100%;
-  // display: flex;
-  display: grid;
-  grid-template-columns: .3fr 1fr 2.8fr 1.2fr;
-  // flex-direction: column;
+  display: flex;
+  // display: grid;
+  // grid-template-columns: .3fr 1fr 2.8fr 1.2fr;
+  flex-direction: column;
   // border: 3px solid $bg-dark;
   border: 3px solid $bglborder;
 
@@ -164,7 +172,7 @@
 
   &__title {
     padding: 5px 0;
-    text-align: center;
+    text-align: left;
     height: auto;
     font-size: 18px;
     font-weight: 700;
@@ -184,12 +192,13 @@
     }
   }
 
-  // &__cols-box {
-  //   // height: 100%;
-  //   // display: flex;
-  //   // flex-direction: column;
-  //   // justify-content: stretch;
-  // }
+  &__cols-box {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 0 10px;
+  }
 
   &__cols {
     display: flex;
@@ -201,10 +210,6 @@
     color: var(--text-color);
 
     span {
-      @include mobile {
-        display: none;
-      }
-
       @include mobile-md {
         display: grid;
       }

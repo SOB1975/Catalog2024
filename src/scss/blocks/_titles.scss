@@ -26,6 +26,8 @@
 }
 
 .title-1--md {
+  margin-bottom: 20px;
+
   @include mobile {
     margin-top: 80px;
   }
