@@ -868,7 +868,11 @@
 								</li>
 
 								<li class="sidebar__item">
-									<button class="sidebar__btn" id="series-4">События ВОВ и&#160;столицы</button>
+									<button class="sidebar__btn" id="series-3">События ВОВ и&#160;столицы</button>
+								</li>
+
+								<li class="sidebar__item">
+									<button class="sidebar__btn" id="series-4">70-летие Победы в&#160;Великой Отечественной войне 1941&#8211;1945 гг.</button>
 								</li>
 
 								<li class="sidebar__item">
@@ -961,6 +965,11 @@
 				</div>
 
 				<div class="category__box-right">
+					<ul class="tab-list">
+						<li class="tab-item active" data-tab="tab1">Таб 1</li>
+						<li class="tab-item" data-tab="tab2">Таб 2</li>
+						<li class="tab-item" data-tab="tab3">Таб 3</li>
+					</ul>
 					<div class="category__header">
 						<ul class="category__menu display">
 							<li class="category__item">
@@ -1105,7 +1114,9 @@
 						</ul>
 					</div>
 
-					<div class="products">
+					<!-- <div class="products"> -->
+
+					<div class="tab-pane active" id="tab1">
 						<!DOCTYPE html>
 
 						<div class="product" data-series="series-2" data-year="year-1">
@@ -1828,42 +1839,38 @@
 						</div>
 						<!DOCTYPE html>
 
-						<div class="product" data-series="series-1" data-year="year-1">
-							<h3 class="product__status-triangle product__status-circle--green" title="В наличии"></h3>
+						<div class="product" data-series="series-4" data-year="year-25">
+							<h3 class="product__status-triangle product__status-circle--red" title="Отсутствует"></h3>
 							<div class="product__box product__box--center">
 								<span class="product__number"></span>
-								<a class="product__link" href="https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0004" target="_blank"></a>
+								<a class="product__link" href="https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5714-0100" target="_blank"></a>
 							</div>
 							<div class="product__box">
 								<div class="product__picture">
 									<div class="product__top ">
 										<picture>
-											<source srcset="./img/other/spmd-m.webp 1x, ./img/other/spmd-m@2x.webp 2x" type="image/webp" />
-											<source srcset="./img/other/spmd-m.jpg 1x, ./img/other/spmd-m@2x.jpg 2x" type="image/jpeg" />
-											<img class="product__top-img" src="./img/other/spmd-m.jpg" alt="" />
+											<source srcset="./img/other/mmd.webp 1x, ./img/other/mmd@2x.webp 2x" type="image/webp" />
+											<source srcset="./img/other/mmd.jpg 1x, ./img/other/mmd@2x.jpg 2x" type="image/jpeg" />
+											<img class="product__top-img" src="./img/other/mmd.jpg" alt="" />
 										</picture>
 									</div>
 									<picture>
 										<source
-											srcset="./img/coins/russia/yubilee/10rubm/2000/politruk.webp 1x, ./img/coins/russia/yubilee/10rubm/2000/politruk@2x.webp 2x"
+											srcset="./img/coins/russia/yubilee/10rubm/2024/toropec.webp 1x, ./img/coins/russia/yubilee/10rubm/2024/toropec@2x.webp 2x"
 											type="image/webp"
 										/>
 										<source
-											srcset="./img/coins/russia/yubilee/10rubm/2000/politruk.jpg 1x, ./img/coins/russia/yubilee/10rubm/2000/politruk@2x.jpg 2x"
-											type="image/jpeg"
+											srcset="./img/coins/russia/yubilee/10rubm/2024/toropec.png 1x, ./img/coins/russia/yubilee/10rubm/2024/toropec@2x.png 2x"
+											type="image/png"
 										/>
-										<img
-											class="product__img"
-											src="./img/coins/russia/yubilee/10rubm/2000/politruk.jpg"
-											alt="55-я годовщина Победы в Великой Отечественной войне 1941-1945 гг"
-										/>
+										<img class="product__img" src="./img/coins/russia/yubilee/10rubm/2024/toropec.png" alt="Торопец, Тверская область" />
 									</picture>
 								</div>
 							</div>
 							<div class="product__cols-box">
 								<div class="product__box product__box--center">
-									<p class="product__text">10 рублей 2000</p>
-									<h3 class="product__title">55-я годовщина Победы в&#160;Великой Отечественной войне 1941&#8211;1945 гг</h3>
+									<p class="product__text">10 рублей 2024</p>
+									<h3 class="product__title">Торопец, Тверская область</h3>
 								</div>
 
 								<div class="product__box product__box--pd product__box--center">
@@ -1873,7 +1880,7 @@
 										</div>
 
 										<div class="product__box-inner">
-											<span class="product__price" @@data>59</span>
+											<span class="product__price" data-absent="absent">129</span>
 											<span>₽</span>
 										</div>
 									</div>
@@ -1884,7 +1891,7 @@
 										</div>
 
 										<div class="product__box-inner">
-											<span class="product__count">6</span>
+											<span class="product__count">0</span>
 											<span>шт</span>
 										</div>
 									</div>
@@ -1975,6 +1982,13 @@
 							</div>
 						</div>
 					</div>
+					<div class="tab-pane" id="tab2">
+						Содержимое таба&#160;2
+					</div>
+					<div class="tab-pane" id="tab3">
+						Содержимое таба&#160;3
+					</div>
+					<!-- </div> -->
 				</div>
 			</section>
 
@@ -1994,5 +2008,5 @@
 			</div>
 		</main>
 	</body>
-	<script src="./js/index.bundle.js" async defer></script>
+	<script src="./js/index.bundle.js" defer></script>
 </html>

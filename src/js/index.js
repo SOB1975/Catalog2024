@@ -36,6 +36,9 @@ mobileNavTop();
 //statistic on off
 import statistic from './modules/statistic.js'; 
 statistic();
+//tabs switch
+import tabs from './modules/tabs.js'; 
+tabs();
 
 // // import styles bundle
 import 'swiper/css/bundle';

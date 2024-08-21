@@ -124,50 +124,5 @@
     "dataseries": "data-series = series-2",
     "datayear": "data-year = year-1",
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5712-0007"
-  },
-  {
-    "img": "coins/russia/yubilee/5ru/2012/5RU12-10.jpg",
-    "md": "mmd.jpg",
-    "text": "5 рублей 2012",
-    "title": "Сражение при Красном",
-    "desc":  "Стоимость:",
-    "price": "150",
-    "count": "1",
-    "info": "В наличии",
-    "color": "product__status-circle--green",
-    "dataseries": "data-series = series-2",
-    "datayear": "data-year = year-1",
-    "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5712-0001"
-  },
-  {
-    "img": "coins/russia/yubilee/10rubm/2024/toropec.png",
-    "md": "mmd.jpg",
-    "text": "10 рублей 2024",
-    "title": "Торопец, Тверская область",
-    "desc":  "Стоимость:",
-    "price": "129",
-    "count": "0",
-    "info": "Отсутствует",
-    "color": "product__status-circle--red",
-    "data": "data-absent = absent",
-    "dataseries": "data-series = series-4",
-    "datayear": "data-year = year-25",
-    "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5714-0100"
-  },
-  {
-    "img": "coins/russia/yubilee/10rubm/2024/toropec.png",
-    "md": "mmd.jpg",
-    "text": "10 рублей 2024",
-    "title": "Торопец, Тверская область",
-    "desc":  "Стоимость:",
-    "price": "129",
-    "count": "0",
-    "info": "Отсутствует",
-    "color": "product__status-circle--red",
-    "data": "data-absent = absent",
-    "dataseries": "data-series = series-4",
-    "datayear": "data-year = year-25",
-    "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5714-0100"
   }
-
 ]
