@@ -136,11 +136,11 @@ for(let i=0;i<parsUserData25ru.length;i++){
   cardPriceAll.appendChild(cardPriceAllSpan).innerText=" ₽";
 
   if(parsUserData25ru[i].count){
-    console.log('Истина');
-    //add children for cardTop and add class card__status
-  cardTop.appendChild(cardStatus).className="card__status-on";
-  // cardStatus.innerText=parsUserData25ru[i].info;
-    
+    cardTop.appendChild(cardStatus).className="card__status-on";
+    cardStatus.setAttribute("title", parsUserData25ru[i].info);
+  }else{
+    cardTop.appendChild(cardStatus).className="card__status-off";
+    cardStatus.setAttribute("title", parsUserData25ru[i].info);
   }
 }
 
