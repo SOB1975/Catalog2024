@@ -6,42 +6,35 @@ const coins25ru =[
     "md": "./../img/other/spmd-m.jpg",
     "text": "Эмблема Игр",
     "title": "25 рублей 2011",
-    // "desc":  "Стоимость:",
     "price": "139",
     "count": "1",
     "info": "В наличии",
     "color": "product__on",
     "dataseries": "series-1",
     "datayear": "year-1",
-    "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0004"
+    "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0001"
   },
   {
     "img": "./../img/coins/russia/yubilee/25ru/2011/sochicolor.jpg",
     "md": "./../img/other/spmd-m.jpg",
     "text": "Эмблема Игр",
     "title": "25 рублей 2011",
-    // "desc":  "Стоимость:",
     "price": "139",
     "count": "1",
     "info": "В наличии",
     "color": "product__on",
     "dataseries": "series-1",
     "datayear": "year-1",
-    "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0004"
+    "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0002"
   }
 
 ];
 
 const userDataString = JSON.stringify(coins25ru);
-// console.log(userDataString);
 const parsUserData25ru = JSON.parse(userDataString)
-// console.log(parsUserData[0].img);
-// console.log(parsUserData25ru.length);
 
 // находим контейнер для карточек
 const products = document.querySelector('.products');
-
-
 
 for(let i=0;i<parsUserData25ru.length;i++){
   // create card 
@@ -57,165 +50,100 @@ for(let i=0;i<parsUserData25ru.length;i++){
   card.appendChild(cardTop).className="card__top";
   //careate card status
   let cardStatus = document.createElement('div');
-  //add children for cardTop and add class card__status
-  cardTop.appendChild(cardStatus).className="card__status";
   // creat card count
   let cardCount = document.createElement('div');
   //add children for cardTop and add class card__count
   cardTop.appendChild(cardCount).className="card__count";
-  // careate card number
-  let cardNumber = document.createElement('span');
-  //add children for cardCount and add span
-  cardCount.appendChild(cardNumber);
-  // save number for card
-  cardNumber.innerHTML = i+1;
-  
-  
+  // add number in count
+  cardCount.innerHTML = i+1;
+  // create card link
+  let cardLink = document.createElement('a');
+  //add children for card and add class card__link
+  card.appendChild(cardLink).className="card__link";
+  // add atributte href and target
+  cardLink.setAttribute("href", parsUserData25ru[i].link);
+  cardLink.setAttribute("target", "_blank");
+  // create card body
+  let cardBody = document.createElement('div');
+  // add children cardBody for card and class card__body 
+  card.appendChild(cardBody).className="card__body";
+  // create card img
+  let cardImg = document.createElement('img');
+  // add children cardImg  for cardBody and class card__img
+  cardBody.appendChild(cardImg).className="card__img";
+  // add attribute src for card__img
+  cardImg.setAttribute("src", parsUserData25ru[i].img);
+  // create ImgSign
+  let cardImgSign = document.createElement('img');
+  cardBody.appendChild(cardImgSign).className="card__imgsign";
+  // add children cardImgSign  for cardBody and class card__imgsign
+  cardImgSign.setAttribute("src", parsUserData25ru[i].md);
+  // create card info
+  let cardInfo = document.createElement('div');
+  //add children for card and add class card__info
+  card.appendChild(cardInfo).className="card__info";
+  // create title
+  let cardTitle = document.createElement('h3');
+  // add children for cardInfo and class card__title
+  cardInfo.appendChild(cardTitle).className="card__title"
+  // add content title
+  cardTitle.innerText=parsUserData25ru[i].title;
+  // create description
+  let cardDesc = document.createElement('div');
+  // add children for cardInfo and class card__desc
+  cardInfo.appendChild(cardDesc).className="card__desc";
+  // add content desription
+  cardDesc.innerText=parsUserData25ru[i].text;
+  // create Box Items
+  let cardBoxOne = document.createElement('div');
+  let cardBoxTwo = document.createElement('div');
+  let cardBoxThree = document.createElement('div');
+  // add children for cardInfo and class card__box
+  cardInfo.appendChild(cardBoxOne).className="card__box";
+  cardInfo.appendChild(cardBoxTwo).className="card__box";
+  cardInfo.appendChild(cardBoxThree).className="card__box";
+  // create price sale text
+  let cardPriceSaleTxt = document.createElement('span');
+  // add children for cardBoxOne and span
+  cardBoxOne.appendChild(cardPriceSaleTxt);
+  // add content cardPriceSaleTxt
+  cardPriceSaleTxt.innerText="Стоимость:"
+  // create price sale
+  let cardPriceSale = document.createElement('div');
+  // add children for cardBoxOne and class card__price
+  cardBoxOne.appendChild(cardPriceSale).className="card__price";
+  // add price sale
+  cardPriceSale.innerHTML= parsUserData25ru[i].price;
+  // create span
+  let cardPriceSaleSpan = document.createElement('span');
+  // add span and content
+  cardPriceSale.appendChild(cardPriceSaleSpan).innerText=" ₽";
+
+  let cardPriceCountTxt = document.createElement('span');
+  let cardPriceCount = document.createElement('div');
+  let cardPriceCountSpan = document.createElement('span');
+
+  cardBoxTwo.appendChild(cardPriceCountTxt).innerText="Количество:";
+  cardBoxTwo.appendChild(cardPriceCount).innerHTML=parsUserData25ru[i].count;
+  cardPriceCount.appendChild(cardPriceCountSpan).innerText=" Шт";
+
+  let cardPriceAllTxt = document.createElement('span');
+  let cardPriceAll = document.createElement('div');
+  let cardPriceAllSpan = document.createElement('span');
+
+  cardBoxThree.appendChild(cardPriceAllTxt).innerText="За все:";
+  cardBoxThree.appendChild(cardPriceAll).innerHTML=parsUserData25ru[i].count*parsUserData25ru[i].price;
+  cardPriceAll.appendChild(cardPriceAllSpan).innerText=" ₽";
+
+  if(parsUserData25ru[i].count){
+    console.log('Истина');
+    //add children for cardTop and add class card__status
+  cardTop.appendChild(cardStatus).className="card__status-on";
+  // cardStatus.innerText=parsUserData25ru[i].info;
+    
+  }
 }
 
-// var inputDeveloper = document.getElementById('new-developers');
-// const createBtn = document.getElementById('crbtn');
-// //============================================================================ 
-// //============================================================================ 
-// // top card block
+}
 
-// //card status
-// let cardStatus = document.createElement('div');
-// card count
- 
-// // card number
-// let cardNumber = document.createElement('span');
-// //============================================================================
-// //card body
-// let cardBody = document.createElement('div');
-// let cardImg = document.createElement('img');
-// let cardImgSign = document.createElement('img');
-//============================================================================
-//card info
-// let cardInfo = document.createElement('div');
-// let cardTitle = document.createElement('h3');
-// let cardDesc = document.createElement('div');
-// let cardPrice = document.createElement('div');
-// let cardBoxOne = document.createElement('div');
-// let cardBoxTwo = document.createElement('div');
-// let cardBoxThree = document.createElement('div');
-// let cardPriceSaleTxt = document.createElement('span');
-// let cardPriceSale = document.createElement('div');
-// let cardPriceSaleSpan = document.createElement('span');
-// let cardPriceCountTxt = document.createElement('span');
-// let cardPriceCount = document.createElement('div');
-// let cardPriceCountSpan = document.createElement('span');
-
-// console.log(card);
-
-// form top card block
-// cardTop.className="card__top";
-// cardStatus.className="card__status";
-// cardStatus.className= parsUserData[0].color;
-// cardStatus.className= parsUserData.color;
-// cardCount.className="card__count"
-// cardNumber.className="card__number"
-// products.appendChild(card);
-// card.appendChild(cardTop);
-// cardTop.appendChild(cardStatus);
-// cardTop.appendChild(cardCount);
-// cardCount.appendChild(cardNumber);
-// cardNumber.innerHTML= NumberCard;
-// ===============================================================================
-// from card body
-// card.appendChild(cardBody);
-// cardBody.className="card__body";
-// cardBody.appendChild(cardImg);
-// cardBody.appendChild(cardImgSign);
-// cardImg.className="card__img";
-// cardImgSign.className="card__imgsign";
-// cardImg.setAttribute("src", parsUserData[0].img);
-// cardImgSign.setAttribute("src",parsUserData[0].md);
-//==================================================================================
-// for card info
-// card.appendChild(cardInfo);
-// cardInfo.className = "card__info";
-// cardInfo.appendChild(cardTitle);
-// cardTitle.className = "card__title";
-// cardTitle.innerHTML = parsUserData[0].title;
-// cardInfo.appendChild(cardDesc);
-// cardDesc.className = "card__desc";
-// cardDesc.innerHTML = parsUserData[0].text;
-// cardInfo.appendChild(cardPrice);
-// cardPrice.className = "card__price";
-// cardPrice.appendChild(cardBoxOne);
-// cardPrice.appendChild(cardBoxTwo);
-// cardPrice.appendChild(cardBoxThree);
-// cardBoxOne.classList = "card__box";
-// cardBoxTwo.classList = "card__box";
-// cardBoxThree.classList = "card__box";
-// cardBoxOne.appendChild(cardPriceSaleTxt);
-// cardBoxOne.appendChild(cardPriceSale);
-// cardPriceSaleTxt.classList = "card__price-txt";
-// cardPriceSaleTxt.innerHTML = "Стоимость:";
-// cardPriceSale.classList = "card__price-sale";
-// cardPriceSale.innerHTML = parsUserData[0].price;
-// cardPriceSale.appendChild(cardPriceSaleSpan);
-// cardPriceSaleSpan.innerHTML = " ₽";
-// cardBoxTwo.appendChild(cardPriceCountTxt);
-// cardPriceCountTxt.classList = "card__price-countxt";
-// cardPriceCountTxt.innerHTML = "Количество:";
-// cardBoxTwo.appendChild(cardPriceCount);
-// cardPriceCount.classList = "card__price-count";
-// cardPriceCount.innerHTML = parsUserData[0].count;
-// cardPriceCount.appendChild(cardPriceCountSpan);
-// cardPriceCountSpan.innerText = " Шт";
-//  console.log(products);
-  
-//  console.log(createBtn);
-
-  // function createNewElement(developer){
-    
-    
-    // let img = document.createElement('img');
-    // // console.log(img);
-    
-    
-    // cardTop.className="card__top";
-    // img.className = "card__img";
-    // img.setAttribute("src","./../img/25RU21-1.png");
-    // card.appendChild(cardTop);
-    // cardBox.appendChild(img);
-    // products.appendChild(card);
-    // console.log(card); 
-    // console.log(!!products);
-    // console.log(cardBox);
-    // document.body.main.appendChild(card);
-    // return card;
-  }
-  // createNewElement();
-
-  // console.log(createNewElement());
-  // if(inputDeveloper.value){
-  //     var listItem = createNewElement(inputDeveloper.value);
-  //       products.appendChild(listItem);
- 
-  //       inputDeveloper.value = "";
-        
-        
-  //   }
-
-//  if(!!createBtn){
-//   // console.log('true');
-  
-//   createBtn.addEventListener('click',()=>{
-//     // console.log('Нажал');
-//     createNewElement();
-    
-    
-//     // console.log(products);
-    
-    
-//   })
- 
-// }
-
-
-   
-// }
 export default create25ru;
