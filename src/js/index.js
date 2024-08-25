@@ -39,6 +39,9 @@ statistic();
 //tabs switch
 import tabs from './modules/tabs.js'; 
 tabs();
+//25ru create
+import create25ru from './modules/create25ru.js'; 
+create25ru();
 
 // // import styles bundle
 import 'swiper/css/bundle';
