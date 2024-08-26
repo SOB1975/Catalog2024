@@ -68,3 +68,17 @@ import Swiper from 'swiper/bundle';
     });
 
 
+var swiper = new Swiper(".card__swiper", {
+      // loop: true,
+      centeredSlides: true,
+      spaceBetween: 0,
+      grabCursor: true,
+      scrollbar: {
+        el: ".swiper-scrollbar",
+        hide: true,
+        clickable: true,
+      },
+      
+    });
+
+
