@@ -1,9 +1,9 @@
 function json25ru(){
   const json25ru =[
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2011/sochi.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2011/revers.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2011/sochi.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2011/revers.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "text": "Эмблема Игр",
     "title": "25 рублей 2011",
     "price": "139",
@@ -15,9 +15,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0001"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2011/sochicolor.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2011/revers.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2011/sochicolor.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2011/revers.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "text": "Эмблема Игр (цветная)",
     "title": "25 рублей 2011",
     "price": "890",
@@ -29,9 +29,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0002"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2012/talisman.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2012/revers.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2012/talisman.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2012/revers.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "text": "Талисманы и Эмблема Игр",
     "title": "25 рублей 2012",
     "price": "89",
@@ -43,9 +43,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0003"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2012/talismancolor.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2012/revers.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2012/talismancolor.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2012/revers.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "text": "Талисманы и Эмблема Игр (цветная)",
     "title": "25 рублей 2012",
     "price": "1240",
@@ -58,9 +58,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0004"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2013/sochi.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2013/revers.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2013/sochi.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2013/revers.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "25 рублей 2013",
     "text": "Эмблема XXII Олимпийских зимних игр Сочи",
     "price": "70",
@@ -73,9 +73,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0009"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2013/talisman.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2013/revers.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2013/talisman.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2013/revers.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "25 рублей 2013",
     "text": "Талисманы и эмблема XXII Олимпийских зимних игр Сочи 2014",
     "price": "90",
@@ -88,9 +88,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0010"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2013/luchik.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2013/revers.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2013/luchik.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2013/revers.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "25 рублей 2013",
     "text": "Талисманы и логотип XI Паралимпийских зимних игр Сочи ",
     "price": "70",
@@ -103,9 +103,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0011"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2013/estafeta.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2013/revers.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2013/estafeta.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2013/revers.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "25 рублей 2013",
     "text": "Эстафета Олимпийского огня Сочи",
     "price": "70",
@@ -118,9 +118,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0007"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2013/estafetacolor.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2013/revers.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2013/estafetacolor.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2013/revers.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "25 рублей 2013",
     "text": "Эстафета Олимпийского огня Сочи",
     "price": "950",
@@ -133,9 +133,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0008"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2013/luchik2013.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2013/revers13.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2013/luchik2013.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2013/revers13.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "25 рублей 2013",
     "text": "Талисманы и логотип XI Паралимпийских зимних игр Сочи",
     "price": "70",
@@ -148,9 +148,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0005"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2013/luchikcolor.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2013/revers13.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2013/luchikcolor.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2013/revers13.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "25 рублей 2013",
     "text": "Талисманы и логотип XI Паралимпийских зимних игр Сочи",
     "price": "950",
@@ -163,9 +163,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0006"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2016/worldcup.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2016/revers.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2016/worldcup.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2016/revers.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2016",
     "text": "Чемпионат мира по футболу FIFA 2018 в России",
     "price": "50",
@@ -178,9 +178,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0013"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2016/worldcupcolor.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2016/revers.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2016/worldcupcolor.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2016/revers.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2016",
     "text": "Чемпионат мира по футболу FIFA 2018 в России",
     "price": "1500",
@@ -193,9 +193,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0013"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2017/children.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2017/revers.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2017/children.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2017/revers.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2017",
     "text": "Дари добро детям",
     "price": "400",
@@ -208,9 +208,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0017"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2017/carabin.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2017/revers.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2017/carabin.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2017/revers.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2017",
     "text": "Чемпионат мира по практической стрельбе из карабина",
     "price": "5500",
@@ -223,9 +223,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0014"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2017/puh.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2017/revers.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2017/puh.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2017/revers.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2017",
     "text": "Винни Пух",
     "price": "2990",
@@ -238,9 +238,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0022"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2017/puhcolor.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2017/revers.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2017/puhcolor.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2017/revers.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2017",
     "text": "Винни Пух (в специальном исполнении)",
     "price": "25000",
@@ -253,9 +253,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0023"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2017/triwaior.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2017/revers.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2017/triwaior.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2017/revers.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2017",
     "text": "Три богатыря",
     "price": "2990",
@@ -268,9 +268,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0020"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2017/triwariorcolor.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2017/revers.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2017/triwariorcolor.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2017/revers.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2017",
     "text": "Три богатыря (в специальном исполнении)",
     "price": "27000",
@@ -283,9 +283,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0021"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2017/zabivaka.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2017/revers18.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2017/zabivaka.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2017/revers18.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2017",
     "text": "Чемпионат мира по футболу FIFA 2018 в России",
     "price": "70",
@@ -298,9 +298,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0018"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2017/zabivakacolor.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2017/revers18.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2017/zabivakacolor.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2017/revers18.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2017",
     "text": "Чемпионат мира по футболу FIFA 2018 в России (в специальном исполнении)",
     "price": "790",
@@ -313,9 +313,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0019"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2017/worldcup.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2017/revers18.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2017/worldcup.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2017/revers18.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2017",
     "text": "Чемпионат мира по футболу FIFA 2018 в России",
     "price": "60",
@@ -328,9 +328,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0015"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2017/worldcupcolor.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2017/revers18.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2017/worldcupcolor.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2017/revers18.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2017",
     "text": "Чемпионат мира по футболу FIFA 2018 в России (в специальном исполнении)",
     "price": "990",
@@ -343,9 +343,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0016"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2018/const.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2018/revers.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2018/const.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2018/revers.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2018",
     "text": "25-летие принятия Конституции Российской Федерации",
     "price": "150",
@@ -358,9 +358,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0027"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2018/armygame.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2018/revers.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2018/armygame.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2018/revers.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2018",
     "text": "Армейские международные игры",
     "price": "490",
@@ -373,9 +373,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0024"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2018/nupogodi.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2018/revers.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2018/nupogodi.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2018/revers.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2018",
     "text": "Ну, погоди!",
     "price": "3600",
@@ -388,9 +388,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0025"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2018/nupogodicolor.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2018/revers.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2018/nupogodicolor.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2018/revers.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2018",
     "text": "Ну, погоди! (специальное исполнение)",
     "price": "25000",
@@ -403,9 +403,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0026"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2019/leningrad.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2019/revers.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2019/leningrad.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2019/revers.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2019",
     "text": "75-летие полного освобождения Ленинграда от фашистской блокады",
     "price": "150",
@@ -418,9 +418,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0028"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2019/grabin.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2019/revers.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2019/grabin.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2019/revers.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2019",
     "text": "Конструктор оружия В.Г. Грабин",
     "price": "35",
@@ -433,9 +433,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0033"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2019/kotin.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2019/revers.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2019/kotin.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2019/revers.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2019",
     "text": "Конструктор оружия Ж.Я. Котин",
     "price": "35",
@@ -448,9 +448,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0034"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2019/koshkin.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2019/revers.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2019/koshkin.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2019/revers.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2019",
     "text": "Конструктор оружия М.И. Кошкин",
     "price": "35",
@@ -463,9 +463,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0035"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2019/malinin.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2019/revers.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2019/malinin.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2019/revers.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2019",
     "text": "Конструктор оружия Б.М. Малинин",
     "price": "35",
@@ -478,9 +478,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0036"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2019/petlyakov.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2019/revers.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2019/petlyakov.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2019/revers.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2019",
     "text": "Конструктор оружия В.М. Петляков",
     "price": "35",
@@ -493,9 +493,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0037"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2019/petrov.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2019/revers.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2019/petrov.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2019/revers.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2019",
     "text": "Конструктор оружия Ф.Ф. Петров",
     "price": "35",
@@ -508,9 +508,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0038"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2019/polikarpov.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2019/revers.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2019/polikarpov.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2019/revers.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2019",
     "text": "Конструктор оружия Н.Н. Поликарпов",
     "price": "35",
@@ -523,9 +523,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0039"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2019/simonov.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2019/revers.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2019/simonov.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2019/revers.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2019",
     "text": "Конструктор оружия С.Г. Симонов",
     "price": "35",
@@ -538,9 +538,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0040"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2019/shpagin.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2019/revers.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2019/shpagin.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2019/revers.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2019",
     "text": "Конструктор оружия Г.С. Шпагин",
     "price": "35",
@@ -553,9 +553,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0041"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2019/moroz.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2019/revers.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2019/moroz.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2019/revers.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2019",
     "text": "Дед Мороз и лето",
     "price": "1390",
@@ -568,9 +568,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0031"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2019/morozcolor.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2019/revers.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2019/morozcolor.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2019/revers.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2019",
     "text": "Дед Мороз и лето(специальное издание)",
     "price": "29700",
@@ -583,9 +583,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0032"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2019/muzic.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2019/revers.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2019/muzic.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2019/revers.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2019",
     "text": "Бременские музыканты",
     "price": "1890",
@@ -598,9 +598,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0029"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2019/miziccolor.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2019/revers.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2019/miziccolor.jpg",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2019/revers.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2019",
     "text": "Бременские музыканты (специальное издание)",
     "price": "29500",
@@ -613,9 +613,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0030"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2020/25RU20-1.png",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2020/revers.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2020/25RU20-1.png",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2020/revers.png",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2020",
     "text": "Памятная монета, посвященная самоотверженному труду медицинских работников",
     "price": "60",
@@ -628,9 +628,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0054"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2020/25RU20-2.png",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2020/revers.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2020/25RU20-2.png",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2020/revers.png",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2020",
     "text": "Конструктор оружия С.В. Ильюшин",
     "price": "190",
@@ -643,9 +643,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0047"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2020/25RU20-3.png",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2020/revers.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2020/25RU20-3.png",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2020/revers.png",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2020",
     "text": "Конструктор оружия С.А. Лавочкин",
     "price": "190",
@@ -658,9 +658,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0048"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2020/25RU20-4.png",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2020/revers.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2020/25RU20-4.png",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2020/revers.png",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2020",
     "text": "Конструктор оружия М.Н. Логинов",
     "price": "190",
@@ -673,9 +673,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0049"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2020/25RU20-5.png",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2020/revers.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2020/25RU20-5.png",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2020/revers.png",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2020",
     "text": "Конструктор оружия А.Н. Туполев",
     "price": "190",
@@ -688,9 +688,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0050"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2020/25RU20-6.png",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2020/revers.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2020/25RU20-6.png",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2020/revers.png",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2020",
     "text": "Конструктор оружия А.С. Яковлев",
     "price": "190",
@@ -703,9 +703,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0051"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2020/25RU20-7.png",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2020/revers.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2020/25RU20-7.png",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2020/revers.png",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2020",
     "text": "Конструктор оружия П.М. Горюнов",
     "price": "190",
@@ -718,9 +718,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0042"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2020/25RU20-8.png",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2020/revers.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2020/25RU20-8.png",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2020/revers.png",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2020",
     "text": "Конструктор оружия Л.Л. Ермаш",
     "price": "190",
@@ -733,9 +733,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0043"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2020/25RU20-9.png",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2020/revers.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2020/25RU20-9.png",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2020/revers.png",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2020",
     "text": "Конструктор оружия А.И. Маслов",
     "price": "190",
@@ -748,9 +748,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0044"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2020/25RU20-10.png",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2020/revers.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2020/25RU20-10.png",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2020/revers.png",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2020",
     "text": "Конструктор оружия А.И. Судаев",
     "price": "190",
@@ -763,9 +763,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0045"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2020/25RU20-11.png",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2020/revers.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2020/25RU20-11.png",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2020/revers.png",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2020",
     "text": "Конструктор оружия Ф.В. Токарев",
     "price": "190",
@@ -778,9 +778,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0046"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2020/25RU20-12.png",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2020/revers.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2020/25RU20-12.png",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2020/revers.png",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2020",
     "text": "Крокодил Гена",
     "price": "570",
@@ -793,9 +793,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0055"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2020/25RU20-13.png",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2020/revers.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2020/25RU20-13.png",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2020/revers.png",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2020",
     "text": "Крокодил Гена (специальное издание)",
     "price": "5700",
@@ -808,9 +808,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0056"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2020/25RU20-14.png",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2020/revers.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2020/25RU20-14.png",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2020/revers.png",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2020",
     "text": "Барбоскины",
     "price": "370",
@@ -823,9 +823,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0052"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2020/25RU20-15.png",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2020/revers.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2020/25RU20-15.png",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2020/revers.png",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2020",
     "text": "Барбоскины (специальное издание)",
     "price": "2600",
@@ -838,9 +838,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0052"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2021/25RU21-1.png",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2021/revers.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2021/25RU21-1.png",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2021/revers.png",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2021",
     "text": "Творчество Юрия Никулина",
     "price": "230",
@@ -853,9 +853,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0063"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2021/25RU21-2.png",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2021/revers.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2021/25RU21-2.png",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2021/revers.png",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2021",
     "text": "Творчество Юрия Никулина (специальное издание)",
     "price": "2590",
@@ -868,9 +868,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0064"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2021/25RU21-3.png",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2021/revers.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2021/25RU21-3.png",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2021/revers.png",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2021",
     "text": "60-летие первого полета человека в космос",
     "price": "450",
@@ -883,9 +883,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0057"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2021/25RU21-4.png",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2021/revers.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2021/25RU21-4.png",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2021/revers.png",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2021",
     "text": "60-летие первого полета человека в космос (специальное издание)",
     "price": "1760",
@@ -898,9 +898,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0058"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2021/25RU21-5.png",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2021/revers.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2021/25RU21-5.png",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2021/revers.png",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2021",
     "text": "Маша и Медведь",
     "price": "370",
@@ -913,9 +913,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0061"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2021/25RU21-6.png",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2021/revers.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2021/25RU21-6.png",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2021/revers.png",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2021",
     "text": "Маша и Медведь (специальное издание)",
     "price": "2990",
@@ -928,9 +928,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0062"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2021/25RU21-7.png",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2021/revers.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2021/25RU21-7.png",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2021/revers.png",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2021",
     "text": "Умка",
     "price": "340",
@@ -943,9 +943,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0059"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2021/25RU21-8.png",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2021/revers.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2021/25RU21-8.png",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2021/revers.png",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2021",
     "text": "Умка (специальное издание)",
     "price": "2850",
@@ -958,9 +958,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0060"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2022/25RU22-1.png",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2022/revers.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2022/25RU22-1.png",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2022/revers.png",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2022",
     "text": "Веселая карусель № 1",
     "price": "395",
@@ -973,9 +973,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0067"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2022/25RU22-2.png",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2022/revers.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2022/25RU22-2.png",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2022/revers.png",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2022",
     "text": "Веселая карусель № 1(специальное издание)",
     "price": "2490",
@@ -988,9 +988,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0068"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2022/25RU22-3.png",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2022/revers.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2022/25RU22-3.png",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2022/revers.png",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2022",
     "text": "Иван Царевич и Серый Волк",
     "price": "350",
@@ -1003,9 +1003,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0065"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2022/25RU22-4.png",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2022/revers.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2022/25RU22-4.png",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2022/revers.png",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2022",
     "text": "Иван Царевич и Серый Волк (специальное издание)",
     "price": "1990",
@@ -1018,9 +1018,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0066"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2023/25RU23-1.png",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2023/revers.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2023/25RU23-1.png",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2023/revers.png",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2023",
     "text": "Аленький цветочек",
     "price": "285",
@@ -1033,9 +1033,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5715-0002"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2023/25RU23-2.png",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2023/revers.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2023/25RU23-2.png",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2023/revers.png",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2023",
     "text": "Аленький цветочек (специальное издание)",
     "price": "1850",
@@ -1048,9 +1048,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5015-0070"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2023/25RU23-3.png",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2023/revers.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2023/25RU23-3.png",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2023/revers.png",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2023",
     "text": "Смешарики",
     "price": "300",
@@ -1063,9 +1063,9 @@ function json25ru(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5715-0001"
   },
   {
-    "img": "./../img/coins/russia/yubilee/25ru/2023/25RU23-4.png",
-    "imgrev": "./../img/coins/russia/yubilee/25ru/2023/revers.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/25ru/2023/25RU23-4.png",
+    "imgrev": "./img/coins/russia/yubilee/25ru/2023/revers.png",
+    "md": "./img/other/mmd.jpg",
     "title": "25 рублей 2023",
     "text": "Смешарики (специальное издание)",
     "price": "3690",

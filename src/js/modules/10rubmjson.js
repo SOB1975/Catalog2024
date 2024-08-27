@@ -1,9 +1,9 @@
 function json10rubm(){
   const json10rubm=[
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2000/politruk.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2000/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2000/politruk.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2000/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2000",
     "text": "55-я годовщина Победы в Великой Отечественной войне 1941-1945 гг",
     "desc":  "Стоимость:",
@@ -16,9 +16,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0004"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2000/politruk.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2000/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2000/politruk.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2000/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2000",
     "text": "55-я годовщина Победы в Великой Отечественной войне 1941-1945 гг",
     "desc":  "Стоимость:",
@@ -31,9 +31,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0004"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2001/gagarin.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2001/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2001/gagarin.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2001/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2001",
     "text": "40-летие космического полета Ю.А. Гагарина",
     "desc":  "Стоимость:",
@@ -46,9 +46,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0005"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2001/gagarin.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2001/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2001/gagarin.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2001/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2001",
     "text": "40-летие космического полета Ю.А. Гагарина",
     "desc":  "Стоимость:",
@@ -61,9 +61,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0005"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2002/military.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2002/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2002/military.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2002/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2002",
     "text": "Вооруженные силы",
     "desc":  "Стоимость:",
@@ -76,9 +76,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0009"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2002/finance.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2002/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2002/finance.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2002/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2002",
     "text": "Министерство финансов",
     "desc":  "Стоимость:",
@@ -91,9 +91,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0013"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2002/obraz.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2002/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2002/obraz.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2002/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2002",
     "text": "Министерство образования",
     "desc":  "Стоимость:",
@@ -106,9 +106,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0015"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2002/ekonom_razv.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2002/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2002/ekonom_razv.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2002/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2002",
     "text": "Министерство экономического развития и торговли",
     "desc":  "Стоимость:",
@@ -121,9 +121,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0014"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2002/mid_rf.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2002/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2002/mid_rf.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2002/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2002",
     "text": "МИД",
     "desc":  "Стоимость:",
@@ -136,9 +136,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0010"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2002/mvd.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2002/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2002/mvd.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2002/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2002",
     "text": "МВД",
     "desc":  "Стоимость:",
@@ -151,9 +151,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0012"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2002/yust.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2002/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2002/yust.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2002/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2002",
     "text": "Министерство юстиции",
     "desc":  "Стоимость:",
@@ -166,9 +166,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0011"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2002/derbent.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2002/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2002/derbent.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2002/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 20002",
     "text": "Дербент",
     "desc":  "Стоимость:",
@@ -181,9 +181,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0006"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2002/kostroma.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2002/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2002/kostroma.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2002/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2002",
     "text": "Кострома",
     "desc":  "Стоимость:",
@@ -196,9 +196,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0007"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2002/star_russa.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2002/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2002/star_russa.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2002/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2002",
     "text": "Старая Русса",
     "desc":  "Стоимость:",
@@ -211,9 +211,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0008"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2003/pskov.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2003/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2003/pskov.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2003/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2003",
     "text": "Псков",
     "desc":  "Стоимость:",
@@ -226,9 +226,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0016"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2003/murom.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2003/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2003/murom.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2003/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2003",
     "text": "Муром",
     "desc":  "Стоимость:",
@@ -241,9 +241,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0017"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2003/dorogobuzh.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2003/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2003/dorogobuzh.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2003/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2003",
     "text": "Дорогобуж",
     "desc":  "Стоимость:",
@@ -256,9 +256,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0018"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2003/kasimov.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2003/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2003/kasimov.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2003/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2003",
     "text": "Касимов",
     "desc":  "Стоимость:",
@@ -271,9 +271,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0019"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2004/dmitrov.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2004/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2004/dmitrov.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2004/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2004",
     "text": "Дмитров",
     "desc":  "Стоимость:",
@@ -286,9 +286,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0020"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2004/rayjsk.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2004/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2004/rayjsk.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2004/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2004",
     "text": "Ряжск",
     "desc":  "Стоимость:",
@@ -301,9 +301,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0021"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2004/kem.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2004/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2004/kem.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2004/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2004",
     "text": "Кемь",
     "desc":  "Стоимость:",
@@ -316,9 +316,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0022"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2005/60_let_pobeda.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2005/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2005/60_let_pobeda.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2005/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2005",
     "text": "60 лет Победы: Никто не забыт",
     "desc":  "Стоимость:",
@@ -331,9 +331,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0023"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2005/60_let_pobeda.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2005/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2005/60_let_pobeda.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2005/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2005",
     "text": "60 лет Победы: Никто не забыт",
     "desc":  "Стоимость:",
@@ -346,9 +346,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0023"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2005/kaliningrad.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2005/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2005/kaliningrad.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2005/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2005",
     "text": "Калининград",
     "desc":  "Стоимость:",
@@ -361,9 +361,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0024"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2005/kaliningrad.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2005/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2005/kaliningrad.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2005/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2005",
     "text": "Казань",
     "desc":  "Стоимость:",
@@ -376,9 +376,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0025"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2005/mcensk.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2005/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2005/mcensk.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2005/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2005",
     "text": "Мценск",
     "desc":  "Стоимость:",
@@ -391,9 +391,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0026"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2005/borovsk.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2005/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2005/borovsk.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2005/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2005",
     "text": "Боровск",
     "desc":  "Стоимость:",
@@ -406,9 +406,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0027"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2005/moscau.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2005/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2005/moscau.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2005/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2005",
     "text": "Москва",
     "desc":  "Стоимость:",
@@ -421,9 +421,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0033"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2005/len_obl.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2005/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2005/len_obl.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2005/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2005",
     "text": "Ленинградская область",
     "desc":  "Стоимость:",
@@ -436,9 +436,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0028"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2005/tver_obl.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2005/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2005/tver_obl.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2005/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2005",
     "text": "Тверская область",
     "desc":  "Стоимость:",
@@ -451,9 +451,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0029"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2005/orlov_obl.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2005/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2005/orlov_obl.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2005/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2005",
     "text": "Орловская область",
     "desc":  "Стоимость:",
@@ -466,9 +466,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0030"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2005/krasnodar_krai.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2005/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2005/krasnodar_krai.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2005/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2005",
     "text": "Краснодарский край",
     "desc":  "Стоимость:",
@@ -481,9 +481,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0031"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2005/tatarstan.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2005/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2005/tatarstan.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2005/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2005",
     "text": "Республика Татарстан",
     "desc":  "Стоимость:",
@@ -496,9 +496,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0032"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2006/belgorod.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2006/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2006/belgorod.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2006/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2006",
     "text": "Белгород",
     "desc":  "Стоимость:",
@@ -511,9 +511,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0039"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2006/kargopol.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2006/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2006/kargopol.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2006/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2006",
     "text": "Каргополь",
     "desc":  "Стоимость:",
@@ -526,9 +526,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0041"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2006/torgok.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2006/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2006/torgok.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2006/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2006",
     "text": "Торжок",
     "desc":  "Стоимость:",
@@ -541,9 +541,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0040"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2006/primor_krai.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2006/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2006/primor_krai.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2006/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2006",
     "text": "Приморский край",
     "desc":  "Стоимость:",
@@ -556,9 +556,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0034"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2006/sahal_obl.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2006/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2006/sahal_obl.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2006/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2006",
     "text": "Сахалинская область",
     "desc":  "Стоимость:",
@@ -571,9 +571,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0035"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2006/sahayakut_resp.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2006/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2006/sahayakut_resp.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2006/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2006",
     "text": "Республика Саха (Якутия)",
     "desc":  "Стоимость:",
@@ -586,9 +586,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0036"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2006/chitin_obl.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2006/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2006/chitin_obl.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2006/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2006",
     "text": "Читинская область",
     "desc":  "Стоимость:",
@@ -601,9 +601,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0037"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2006/altai_resp.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2006/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2006/altai_resp.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2006/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2006",
     "text": "Республика Алтай",
     "desc":  "Стоимость:",
@@ -616,9 +616,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0038"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2007/vologda.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2007/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2007/vologda.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2007/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2007",
     "text": "Вологда (XII в.)",
     "desc":  "Стоимость:",
@@ -631,9 +631,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0048"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2007/vologda.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2007/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2007/vologda.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2007/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2007",
     "text": "Вологда (XII в.)",
     "desc":  "Стоимость:",
@@ -646,9 +646,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0048"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2007/vel_ust.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2007/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2007/vel_ust.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2007/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2007",
     "text": "Великий Устюг (XII в.), Вологодская область",
     "desc":  "Стоимость:",
@@ -661,9 +661,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0049"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2007/vel_ust.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2007/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2007/vel_ust.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2007/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2007",
     "text": "Великий Устюг (XII в.), Вологодская область",
     "desc":  "Стоимость:",
@@ -676,9 +676,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0049"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2007/gdov.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2007/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2007/gdov.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2007/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2007",
     "text": "Гдов (XV в., Псковская область)",
     "desc":  "Стоимость:",
@@ -691,9 +691,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0050"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2007/gdov.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2007/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2007/gdov.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2007/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2007",
     "text": "Гдов (XV в., Псковская область)",
     "desc":  "Стоимость:",
@@ -706,9 +706,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0050"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2007/bashkortostan_resp.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2007/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2007/bashkortostan_resp.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2007/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2007",
     "text": "Республика Башкортостан",
     "desc":  "Стоимость:",
@@ -721,9 +721,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0042"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2007/rostov_obl.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2007/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2007/rostov_obl.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2007/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2007",
     "text": "Ростовская область",
     "desc":  "Стоимость:",
@@ -736,9 +736,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0043"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2007/lipeck_obl.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2007/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2007/lipeck_obl.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2007/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2007",
     "text": "Липецкая область",
     "desc":  "Стоимость:",
@@ -751,9 +751,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0046"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2007/arh_obl.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2007/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2007/arh_obl.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2007/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2007",
     "text": "Архангельская область",
     "desc":  "Стоимость:",
@@ -766,9 +766,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0047"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2007/novosibir_obl.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2007/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2007/novosibir_obl.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2007/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2007",
     "text": "Новосибирская область",
     "desc":  "Стоимость:",
@@ -781,9 +781,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0044"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2007/hakas_resp.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2007/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2007/hakas_resp.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2007/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2007",
     "text": "Республика Хакасия",
     "desc":  "Стоимость:",
@@ -796,9 +796,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0045"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2008/smolensk.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2008/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2008/smolensk.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2008/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2008",
     "text": "Смоленск (IX в)",
     "desc":  "Стоимость:",
@@ -812,10 +812,10 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0057"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2008/smolensk.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2008/averspb.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2008/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2008/smolensk.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2008/averspb.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2008/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2008",
     "text": "Смоленск (IX в)",
     "desc":  "Стоимость:",
@@ -828,9 +828,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0057"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2008/vladimir.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2008/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2008/vladimir.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2008/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2008",
     "text": "Владимир (XII в.)",
     "desc":  "Стоимость:",
@@ -844,9 +844,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0051"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2008/vladimir.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2008/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2008/vladimir.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2008/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2008",
     "text": "Владимир (XII в.)",
     "desc":  "Стоимость:",
@@ -859,9 +859,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0051"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2008/priozersk.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2008/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2008/priozersk.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2008/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2008",
     "text": "Приозерск, Ленинградская область (XII в.)",
     "desc":  "Стоимость:",
@@ -875,9 +875,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0056"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2008/priozersk.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2008/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2008/priozersk.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2008/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2008",
     "text": "Приозерск, Ленинградская область (XII в.)",
     "desc":  "Стоимость:",
@@ -890,9 +890,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0056"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2008/azov.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2008/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2008/azov.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2008/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2008",
     "text": "Азов (XIII в)",
     "desc":  "Стоимость:",
@@ -905,9 +905,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0058"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2008/azov.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2008/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2008/azov.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2008/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2008",
     "text": "Азов (XIII в)",
     "desc":  "Стоимость:",
@@ -920,9 +920,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0058"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2008/astrahan_obl.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2008/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2008/astrahan_obl.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2008/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2008",
     "text": "Астраханская область",
     "desc":  "Стоимость:",
@@ -935,9 +935,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0053"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2008/astrahan_obl.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2008/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2008/astrahan_obl.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2008/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2008",
     "text": "Астраханская область",
     "desc":  "Стоимость:",
@@ -950,9 +950,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0053"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2008/sverdlov_obl.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2008/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2008/sverdlov_obl.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2008/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2008",
     "text": "Свердловская область",
     "desc":  "Стоимость:",
@@ -966,9 +966,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0054"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2008/sverdlov_obl.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2008/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2008/sverdlov_obl.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2008/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2008",
     "text": "Свердловская область",
     "desc":  "Стоимость:",
@@ -981,9 +981,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0054"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2008/udmurt_resp.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2008/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2008/udmurt_resp.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2008/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2008",
     "text": "Удмуртская Республика",
     "desc":  "Стоимость:",
@@ -997,9 +997,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0052"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2008/udmurt_resp.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2008/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2008/udmurt_resp.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2008/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2008",
     "text": "Удмуртская Республика",
     "desc":  "Стоимость:",
@@ -1012,9 +1012,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0052"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2008/kabardino_balkar_resp.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2008/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2008/kabardino_balkar_resp.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2008/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2008",
     "text": "Кабардино-Балкарская Республика",
     "desc":  "Стоимость:",
@@ -1027,9 +1027,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0055"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2008/kabardino_balkar_resp.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2008/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2008/kabardino_balkar_resp.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2008/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2008",
     "text": "Кабардино-Балкарская Республика",
     "desc":  "Стоимость:",
@@ -1042,9 +1042,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0055"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2009/galich.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2009/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2009/galich.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2009/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2009",
     "text": "Галич (XIII в.) Костромская область",
     "desc":  "Стоимость:",
@@ -1058,9 +1058,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0061"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2009/galich.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2009/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2009/galich.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2009/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2009",
     "text": "Галич (XIII в.) Костромская область",
     "desc":  "Стоимость:",
@@ -1073,9 +1073,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0061"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2009/kaluga.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2009/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2009/kaluga.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2009/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2009",
     "text": "Калуга (XIV в.)",
     "desc":  "Стоимость:",
@@ -1089,9 +1089,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0062"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2009/kaluga.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2009/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2009/kaluga.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2009/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2009",
     "text": "Калуга (XIV в.)",
     "desc":  "Стоимость:",
@@ -1104,9 +1104,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0062"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2009/vuborg.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2009/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2009/vuborg.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2009/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2009",
     "text": "Выборг (XIII в.) Ленинградская область",
     "desc":  "Стоимость:",
@@ -1119,9 +1119,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0060"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2009/vuborg.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2009/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2009/vuborg.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2009/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2009",
     "text": "Выборг (XIII в.) Ленинградская область",
     "desc":  "Стоимость:",
@@ -1134,9 +1134,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0060"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2009/vel_novgorod.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2009/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2009/vel_novgorod.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2009/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2009",
     "text": "Великий Новгород (IX в.)",
     "desc":  "Стоимость:",
@@ -1149,9 +1149,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0065"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2009/vel_novgorod.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2009/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2009/vel_novgorod.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2009/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2009",
     "text": "Великий Новгород (IX в.)",
     "desc":  "Стоимость:",
@@ -1164,9 +1164,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0065"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2009/adygea.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2009/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2009/adygea.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2009/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2009",
     "text": "Республика Адыгея",
     "desc":  "Стоимость:",
@@ -1180,9 +1180,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0064"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2009/adygea.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2009/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2009/adygea.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2009/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2009",
     "text": "Республика Адыгея",
     "desc":  "Стоимость:",
@@ -1195,9 +1195,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0064"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2009/kalmykia_resp.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2009/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2009/kalmykia_resp.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2009/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2009",
     "text": "Республика Калмыкия",
     "desc":  "Стоимость:",
@@ -1210,9 +1210,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0059"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2009/kalmykia_resp.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2009/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2009/kalmykia_resp.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2009/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2009",
     "text": "Республика Калмыкия",
     "desc":  "Стоимость:",
@@ -1225,9 +1225,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0059"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2009/komi_resp.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2009/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2009/komi_resp.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2009/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2009",
     "text": "Республика Коми",
     "desc":  "Стоимость:",
@@ -1240,9 +1240,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0066"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2009/kirov_obl.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2009/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2009/kirov_obl.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2009/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2009",
     "text": "Кировская область",
     "desc":  "Стоимость:",
@@ -1255,9 +1255,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0067"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2009/evrei_obl.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2009/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2009/evrei_obl.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2009/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2009",
     "text": "Еврейская автономная область",
     "desc":  "Стоимость:",
@@ -1270,9 +1270,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0063"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2009/evrei_obl.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2009/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2009/evrei_obl.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2009/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2009",
     "text": "Еврейская автономная область",
     "desc":  "Стоимость:",
@@ -1285,9 +1285,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0063"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2010/perepis.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2010/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2010/perepis.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2010/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2010",
     "text": "Всероссийская перепись населения.",
     "desc":  "Стоимость:",
@@ -1300,9 +1300,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0072"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2010/brynsk.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2010/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2010/brynsk.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2010/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2010",
     "text": "Брянск (X в.)",
     "desc":  "Стоимость:",
@@ -1315,9 +1315,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0068"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2010/urievec.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2010/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2010/urievec.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2010/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2010",
     "text": "Юрьевец (XIII в.), Ивановская область",
     "desc":  "Стоимость:",
@@ -1330,9 +1330,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0069"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2010/permsk_krai.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2010/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2010/permsk_krai.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2010/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2010",
     "text": "Пермский край",
     "desc":  "Стоимость:",
@@ -1346,9 +1346,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0070"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2010/neneck_avt_okrug.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2010/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2010/neneck_avt_okrug.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2010/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2010",
     "text": "Ненецкий автономный округ",
     "desc":  "Стоимость:",
@@ -1362,9 +1362,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0071"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2010/yamalo_nenec_avt_okrug.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2010/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2010/yamalo_nenec_avt_okrug.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2010/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2010",
     "text": "Ямало-Ненецкий автономный округ",
     "desc":  "Стоимость:",
@@ -1378,9 +1378,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0074"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2010/chechen_resp.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2010/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2010/chechen_resp.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2010/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2010",
     "text": "Чеченская Республика",
     "desc":  "Стоимость:",
@@ -1394,9 +1394,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0073"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2011/elec.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2011/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2011/elec.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2011/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2011",
     "text": "Елец, Липецкая область",
     "desc":  "Стоимость:",
@@ -1409,9 +1409,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0075"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2011/solikamsk.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2011/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2011/solikamsk.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2011/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2011",
     "text": "Соликамск, Пермский край",
     "desc":  "Стоимость:",
@@ -1424,9 +1424,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0076"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2011/voron_obl.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2011/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2011/voron_obl.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2011/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2011",
     "text": "Воронежская область",
     "desc":  "Стоимость:",
@@ -1440,9 +1440,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0078"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2011/buryt_resp.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2011/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2011/buryt_resp.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2011/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2011",
     "text": "Республика Бурятия",
     "desc":  "Стоимость:",
@@ -1455,9 +1455,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0077"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2012/belozersk.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2012/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2012/belozersk.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2012/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2012",
     "text": "Белозерск, Вологодская область",
     "desc":  "Стоимость:",
@@ -1470,9 +1470,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0079"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2013/sever_oset_alan_resp.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2013/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2013/sever_oset_alan_resp.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2013/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2013",
     "text": "Республика Северная Осетия-Алания",
     "desc":  "Стоимость:",
@@ -1485,9 +1485,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0080"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2013/dagestan_resp.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2013/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2013/dagestan_resp.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2013/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2013",
     "text": "Республика Дагестан",
     "desc":  "Стоимость:",
@@ -1500,9 +1500,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0081"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2014/nerehta.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2014/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2014/nerehta.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2014/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2014",
     "text": "Нерехта, Костромская обл.",
     "desc":  "Стоимость:",
@@ -1515,9 +1515,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0082"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2014/penza_obl.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2014/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2014/penza_obl.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2014/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2014",
     "text": "Пензенская область",
     "desc":  "Стоимость:",
@@ -1530,9 +1530,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0083"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2014/saratov_obl.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2014/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2014/saratov_obl.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2014/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2014",
     "text": "Саратовская область",
     "desc":  "Стоимость:",
@@ -1545,9 +1545,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0084"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2014/ingush_resp.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2014/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2014/ingush_resp.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2014/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2014",
     "text": "Республика Ингушетия",
     "desc":  "Стоимость:",
@@ -1560,9 +1560,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0085"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2014/tumen_obl.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2014/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2014/tumen_obl.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2014/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2014",
     "text": "Тюменская область",
     "desc":  "Стоимость:",
@@ -1575,9 +1575,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0087"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2014/chelyb_obl.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2014/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2014/chelyb_obl.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2014/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2014",
     "text": "Челябинская область",
     "desc":  "Стоимость:",
@@ -1590,9 +1590,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0088"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2015/emblema_70_let_pobeda.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2015/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2015/emblema_70_let_pobeda.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2015/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2015",
     "text": "Официальная эмблема празднования 70-летия Победы СПМД",
     "desc":  "Стоимость:",
@@ -1605,9 +1605,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0089"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2015/osvob_mira_ot_fashizma.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2015/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2015/osvob_mira_ot_fashizma.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2015/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2015",
     "text": "Освобождение мира от фашизма",
     "desc":  "Стоимость:",
@@ -1620,9 +1620,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0090"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2015/okonchanie_war.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2015/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2015/okonchanie_war.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2015/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2015",
     "text": "Окончание Второй мировой войны",
     "desc":  "Стоимость:",
@@ -1635,9 +1635,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0091"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2016/belgorod_obl.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2016/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2016/belgorod_obl.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2016/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2016",
     "text": "Белгородская область",
     "desc":  "Стоимость:",
@@ -1650,9 +1650,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0092"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2016/irkut_obl.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2016/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2016/irkut_obl.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2016/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2016",
     "text": "Иркутская область",
     "desc":  "Стоимость:",
@@ -1665,9 +1665,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0097"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2016/amurskay_obl.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2016/averspb.jpg",
-    "md": "./../img/other/spmd-m.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2016/amurskay_obl.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2016/averspb.jpg",
+    "md": "./img/other/spmd-m.jpg",
     "title": "10 рублей 2016",
     "text": "Амурская область",
     "desc":  "Стоимость:",
@@ -1680,9 +1680,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0093"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2016/rgev.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2016/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2016/rgev.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2016/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2016",
     "text": "Ржев, Тверская область",
     "desc":  "Стоимость:",
@@ -1695,9 +1695,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0094"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2016/vel_luki.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2016/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2016/vel_luki.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2016/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2016",
     "text": "Великие Луки, Псковская область",
     "desc":  "Стоимость:",
@@ -1710,9 +1710,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0095"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2016/zubcov.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2016/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2016/zubcov.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2016/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2016",
     "text": "Зубцов, Тверская область",
     "desc":  "Стоимость:",
@@ -1725,9 +1725,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5514-0096"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2017/ulyanovsk_obl.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2017/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2017/ulyanovsk_obl.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2017/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2017",
     "text": "Ульяновская область",
     "desc":  "Стоимость:",
@@ -1741,9 +1741,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5714-0057"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2017/tambov_obl.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2017/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2017/tambov_obl.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2017/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2017",
     "text": "Тамбовская область",
     "desc":  "Стоимость:",
@@ -1757,9 +1757,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5714-0058"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2017/olonec.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2017/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2017/olonec.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2017/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2017",
     "text": "Олонец, Республика Карелия (1137 г.)",
     "desc":  "Стоимость:",
@@ -1772,9 +1772,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5714-0056"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2018/kurgan_obl.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2018/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2018/kurgan_obl.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2018/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2018",
     "text": "Курганская область",
     "desc":  "Стоимость:",
@@ -1787,9 +1787,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5714-0059"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2018/gorohovec.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2018/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2018/gorohovec.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2018/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2018",
     "text": "Гороховец, Владимирская область (1168 г.)",
     "desc":  "Стоимость:",
@@ -1803,9 +1803,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5714-0060"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2019/vyazma.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2019/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2019/vyazma.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2019/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2019",
     "text": "Вязьма, Смоленская область ММД",
     "desc":  "Стоимость:",
@@ -1819,9 +1819,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5714-0063"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2019/klin.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2019/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2019/klin.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2019/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2019",
     "text": "Клин, Московская область",
     "desc":  "Стоимость:",
@@ -1835,9 +1835,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5714-0065"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2019/kostroma_obl.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2019/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2019/kostroma_obl.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2019/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2019",
     "text": "Костромская область",
     "desc":  "Стоимость:",
@@ -1851,9 +1851,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5714-0064"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2020/75let_pobeda.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2020/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2020/75let_pobeda.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2020/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2020",
     "text": "75-летие Победы советского народа в В.О.В. 1941–1945 гг",
     "desc":  "Стоимость:",
@@ -1867,9 +1867,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5714-0066"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2020/moscov_obl.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2020/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2020/moscov_obl.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2020/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2020",
     "text": "Московская область",
     "desc":  "Стоимость:",
@@ -1883,9 +1883,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5714-0067"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2020/rayzan_obl.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2020/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2020/rayzan_obl.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2020/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2020",
     "text": "Рязанская область",
     "desc":  "Стоимость:",
@@ -1899,9 +1899,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5714-0070"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2020/kozelsk.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2020/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2020/kozelsk.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2020/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2020",
     "text": "Козельск, Калужская область",
     "desc":  "Стоимость:",
@@ -1915,9 +1915,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5714-0069"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2021/niz_novgorod.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2021/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2021/niz_novgorod.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2021/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2021",
     "text": "Нижний Новгород, Нижегородская область",
     "desc":  "Стоимость:",
@@ -1931,9 +1931,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5714-0072"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2021/karach_cerkesk_resp.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2021/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2021/karach_cerkesk_resp.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2021/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2021",
     "text": "Карачаево-Черкесская Республика",
     "desc":  "Стоимость:",
@@ -1947,9 +1947,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5714-0074"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2022/ivanov_obl.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2022/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2022/ivanov_obl.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2022/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2022",
     "text": "Ивановская область",
     "desc":  "Стоимость:",
@@ -1963,9 +1963,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5714-0083"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2022/gorodec.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2022/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2022/gorodec.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2022/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2022",
     "text": "Городец, Нижегородская область",
     "desc":  "Стоимость:",
@@ -1979,9 +1979,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5714-0085"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2022/ruylsk.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2022/aversmmd.jpg",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2022/ruylsk.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2022/aversmmd.jpg",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2022",
     "text": "Рыльск, Курская область",
     "desc":  "Стоимость:",
@@ -1995,9 +1995,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5714-0084"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2023/ryubinsk.jpg",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2023/aversmmd.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2023/ryubinsk.jpg",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2023/aversmmd.png",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2023",
     "text": "Рыбинск, Ярославская область",
     "desc":  "Стоимость:",
@@ -2011,9 +2011,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5714-0092"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2023/omsk_obl.png",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2023/aversmmd.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2023/omsk_obl.png",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2023/aversmmd.png",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2023",
     "text": "Омская область",
     "desc":  "Стоимость:",
@@ -2027,9 +2027,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5714-0094"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2023/habarovsk_krai.png",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2023/aversmmd.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2023/habarovsk_krai.png",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2023/aversmmd.png",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2023",
     "text": "Хабаровский край",
     "desc":  "Стоимость:",
@@ -2043,9 +2043,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5714-0093"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2024/toropec.png",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2024/aversmmd.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2024/toropec.png",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2024/aversmmd.png",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2024",
     "text": "Торопец, Тверская область",
     "desc":  "Стоимость:",
@@ -2059,9 +2059,9 @@ function json10rubm(){
     "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5714-0100"
   },
   {
-    "img": "./../img/coins/russia/yubilee/10rubm/2024/hanto_mans_okr.png",
-    "imgrev": "./../img/coins/russia/yubilee/10rubm/2024/aversmmd.png",
-    "md": "./../img/other/mmd.jpg",
+    "img": "./img/coins/russia/yubilee/10rubm/2024/hanto_mans_okr.png",
+    "imgrev": "./img/coins/russia/yubilee/10rubm/2024/aversmmd.png",
+    "md": "./img/other/mmd.jpg",
     "title": "10 рублей 2024",
     "text": "Ханты-Мансийский автономный округ – Югра",
     "desc":  "Стоимость:",
