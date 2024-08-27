@@ -4,7 +4,11 @@
 // document.body.appendChild('');
 // console.log(document.body.appendChild(''));
 // console.log('Жопен дропен');
-
+const id25ru = document.getElementById('25ru');
+import json25ru from './modules/25rujson.js';
+const id10rubm = document.getElementById('10rubm');
+import json10rubm from './modules/10rubmjson.js';
+// console.log(json25ru());
 // // Open close button catalog
 import headerBtn from './modules/headerbtn.js';
 headerBtn();
@@ -40,8 +44,13 @@ statistic();
 import tabs from './modules/tabs.js'; 
 tabs();
 //25ru create
-import create25ru from './modules/create25ru.js'; 
-create25ru();
+import createContent from './modules/create25ru.js'; 
+createContent(json25ru(),id25ru);
+createContent(json10rubm(),id10rubm);
+//json25ru
+
+
+
 
 // // import styles bundle
 import 'swiper/css/bundle';
