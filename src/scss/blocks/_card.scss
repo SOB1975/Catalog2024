@@ -40,8 +40,8 @@
     z-index: 1;
   }
 
-  &__status-on,
-  &__status-off {
+  &__on,
+  &__off {
     clip-path: polygon(100% 0, 0% 100%, 0 0);
     position: absolute;
     top: 0;
@@ -51,11 +51,11 @@
     z-index: 100;
   }
 
-  &__status-on {
+  &__on {
     background-color: $bg-green;
   }
 
-  &__status-off {
+  &__off {
     background-color: $bg-red;
   }
 
