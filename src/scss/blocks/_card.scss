@@ -7,15 +7,15 @@
   padding: 30px;
 
   @include computer-sm {
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3, 33%) !important;
   }
 
   @include mobile {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(2, 50%) !important;
   }
 
   @include mobile-sm {
-    grid-template-columns: 1fr;
+    grid-template-columns: 100% !important;
   }
 }
 
@@ -27,6 +27,10 @@
   height: 100%;
   position: relative;
   transition: all 0.2s ease-in;
+
+  // &:not(:nth-child(-n+12)) {
+  //   display: none;
+  // }
 
   @include mobile-md {
     grid-template-columns: 1fr;

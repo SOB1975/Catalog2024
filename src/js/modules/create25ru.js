@@ -1237,11 +1237,167 @@ for(let i=0;i<parsUserData.length;i++){
     cardTop.appendChild(cardStatus).className="card__off";
     cardStatus.setAttribute("title", parsUserData[i].info);
   }
+
+  
+  
   }
+
   
   
+  
+  
+}
+const sideBar = document.querySelector('.sidebar');
+// 
+const inYearBtn26 = document.getElementById('inyear-26');
+// all cards
+const cardAll = document.querySelectorAll('.card');
+// button series-1
+const seriesOneBtn = document.getElementById('series-1');
+// кнопка series-2
+const seriesTwoBtn = document.getElementById('series-2');
+// кнопка series-3
+const seriesThreeBtn = document.getElementById('series-3');
+// кнопка series-4
+const seriesFourBtn = document.getElementById('series-4');
+// кнопка series-5
+const seriesFiveBtn = document.getElementById('series-5');
+// кнопка series-6
+const seriesSixBtn = document.getElementById('series-6');
+// кнопка series-7
+const seriesSevenBtn = document.getElementById('series-7');
+// кнопка series-8
+const seriesEightBtn = document.getElementById('series-8');
+// кнопка series-9
+const seriesNineBtn = document.getElementById('series-9');
+// кнопка series-10
+const seriesTenBtn = document.getElementById('series-10');
+
+
+if(!!seriesOneBtn){
+
+    seriesOneBtn.addEventListener('click',function(event){
+
+      cardAll.forEach(function(item){
+        if(item.getAttribute("data-series") == "data-series = series-1" ){
+          item.classList.remove("none");
+        }else{
+          item.classList.add("none");
+        }
+        
+      })
+    
+      
+    })
+
+}
+
+if(!!seriesTwoBtn){
+  seriesTwoBtn.addEventListener('click',()=>{
+    cardAll.forEach((item)=>{
+        if(item.getAttribute("data-series") == "data-series = series-2"){
+          item.classList.remove("none");
+        }else{
+          item.classList.add("none");
+        }
+    })
+  })
+}
+
+if(!!seriesThreeBtn){
+  seriesThreeBtn.addEventListener('click',()=>{
+    cardAll.forEach((item)=>{
+        if(item.getAttribute("data-series") == "data-series = series-3" ){
+          item.classList.remove("none");
+        }else{
+          item.classList.add("none");
+        }
+    })
+  })
+}
+
+if(!!seriesFourBtn){
+  seriesFourBtn.addEventListener('click',()=>{
+    cardAll.forEach((item)=>{
+        if(item.getAttribute("data-series") == "data-series = series-4" ){
+          item.classList.remove("none");
+        }else{
+          item.classList.add("none");
+        }
+    })
+  })
+}
+
+if(!!seriesFiveBtn){
+  seriesFiveBtn.addEventListener('click',()=>{
+    cardAll.forEach((item)=>{
+        if(item.getAttribute("data-series") == "data-series = series-5" ){
+          item.classList.remove("none");
+        }else{
+          item.classList.add("none");
+        }
+    })
+  })
+}
+
+if(!!seriesSixBtn){
+  seriesSixBtn.addEventListener('click',()=>{
+    cardAll.forEach((item)=>{
+        if(item.getAttribute("data-series") == "data-series = series-6" ){
+          item.classList.remove("none");
+        }else{
+          item.classList.add("none");
+        }
+    })
+  })
+}
+
+if(!!seriesSevenBtn){
+  seriesSevenBtn.addEventListener('click',()=>{
+    cardAll.forEach((item)=>{
+        if(item.getAttribute("data-series") == "data-series = series-7" ){
+          item.classList.remove("none");
+        }else{
+          item.classList.add("none");
+        }
+    })
+  })
+}
+
+if(!!seriesEightBtn){
+  seriesEightBtn.addEventListener('click',()=>{
+    cardAll.forEach((item)=>{
+        if(item.getAttribute("data-series") == "data-series = series-8" ){
+          item.classList.remove("none");
+        }else{
+          item.classList.add("none");
+        }
+    })
+  })
+}
+
+if(!!seriesNineBtn){
+  seriesNineBtn.addEventListener('click',()=>{
+    cardAll.forEach((item)=>{
+        if(item.getAttribute("data-series") == "data-series = series-9" ){
+          item.classList.remove("none");
+        }else{
+          item.classList.add("none");
+        }
+    })
+  })
+}
+
+if(!!seriesTenBtn){
+  seriesTenBtn.addEventListener('click',()=>{
+    cardAll.forEach((item)=>{
+          item.classList.remove("none");
+    })
+  })
 }
 
 }
+
+
 
 export default createContent;

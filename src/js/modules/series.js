@@ -1,258 +1,263 @@
-// все продукты в series-1
-const seriesOne = document.querySelectorAll('[data-series="series-1"]');
-// 
-const inYearBtn26 = document.getElementById('inyear-26');
-// кнопка series-1
-const seriesOneBtn = document.getElementById('series-1');
-//все продукты
-const productAll = document.querySelectorAll('.product');
-// все продукты в series-2
-const seriesTwo = document.querySelectorAll('[data-series="series-2"]');
-// кнопка series-2
-const seriesTwoBtn = document.getElementById('series-2');
-// все продукты в series-3
-const seriesThree = document.querySelectorAll('[data-series="series-3"]');
-// кнопка series-3
-const seriesThreeBtn = document.getElementById('series-3');
-// все продукты в series-4
-const seriesFour = document.querySelectorAll('[data-series="series-4"]');
-// кнопка series-4
-const seriesFourBtn = document.getElementById('series-4');
-// все продукты в series-5
-const seriesFive = document.querySelectorAll('[data-series="series-5"]');
-// кнопка series-5
-const seriesFiveBtn = document.getElementById('series-5');
-// все продукты в series-6
-const seriesSix = document.querySelectorAll('[data-series="series-6"]');
-// кнопка series-6
-const seriesSixBtn = document.getElementById('series-6');
-// все продукты в series-7
-const seriesSeven = document.querySelectorAll('[data-series="series-7"]');
-// кнопка series-7
-const seriesSevenBtn = document.getElementById('series-7');
-// все продукты в series-8
-const seriesEight = document.querySelectorAll('[data-series="series-8"]');
-// кнопка series-8
-const seriesEightBtn = document.getElementById('series-8');
-// все продукты в series-9
-const seriesNine = document.querySelectorAll('[data-series="series-9"]');
-// кнопка series-9
-const seriesNineBtn = document.getElementById('series-9');
-// кнопка series-10
-const seriesTenBtn = document.getElementById('series-10');
+// // все продукты в series-1
+// const seriesOne = document.querySelectorAll('[data-series="series-1"]');
+// // 
+// const inYearBtn26 = document.getElementById('inyear-26');
+// // кнопка series-1
+// const seriesOneBtn = document.getElementById('series-1');
+// //все продукты
+// // const cardAll = document.querySelectorAll('.card');
+// // console.log(cardAll);
 
-const sideBar = document.querySelector('.sidebar');
+// // все продукты в series-2
+// const seriesTwo = document.querySelectorAll('[data-series="series-2"]');
+// // кнопка series-2
+// const seriesTwoBtn = document.getElementById('series-2');
+// // все продукты в series-3
+// const seriesThree = document.querySelectorAll('[data-series="series-3"]');
+// // кнопка series-3
+// const seriesThreeBtn = document.getElementById('series-3');
+// // все продукты в series-4
+// const seriesFour = document.querySelectorAll('[data-series="series-4"]');
+// // кнопка series-4
+// const seriesFourBtn = document.getElementById('series-4');
+// // все продукты в series-5
+// const seriesFive = document.querySelectorAll('[data-series="series-5"]');
+// // кнопка series-5
+// const seriesFiveBtn = document.getElementById('series-5');
+// // все продукты в series-6
+// const seriesSix = document.querySelectorAll('[data-series="series-6"]');
+// // кнопка series-6
+// const seriesSixBtn = document.getElementById('series-6');
+// // все продукты в series-7
+// const seriesSeven = document.querySelectorAll('[data-series="series-7"]');
+// // кнопка series-7
+// const seriesSevenBtn = document.getElementById('series-7');
+// // все продукты в series-8
+// const seriesEight = document.querySelectorAll('[data-series="series-8"]');
+// // кнопка series-8
+// const seriesEightBtn = document.getElementById('series-8');
+// // все продукты в series-9
+// const seriesNine = document.querySelectorAll('[data-series="series-9"]');
+// // кнопка series-9
+// const seriesNineBtn = document.getElementById('series-9');
+// // кнопка series-10
+// const seriesTenBtn = document.getElementById('series-10');
 
-function seriesFilter(){
+// const sideBar = document.querySelector('.sidebar');
 
-  if(!!seriesOneBtn){
+// function seriesFilter(){
 
-    seriesOneBtn.addEventListener('click',function(event){
-      // console.log('visible-1');
-      
-      sideBar.classList.remove('visible');
-      sideBar.classList.remove('none');
+//   if(!!seriesOneBtn){
 
-      if(!!inYearBtn26){
-        inYearBtn26.checked = true;
-      }
+//     seriesOneBtn.addEventListener('click',function(event){
+//       // console.log('visible-1');
+//       console.log(cardAll);
+//       // console.log(seriesOneBtn);
+//       sideBar.classList.remove('visible');
+//       sideBar.classList.remove('none');
 
-      productAll.forEach(function(item){
-        item.classList.add('none');
-      })
+//       if(!!inYearBtn26){
+//         inYearBtn26.checked = true;
+//       }
 
-      seriesOne.forEach(function(item,index){
-        item.classList.remove("none");
-        item.children[1].children[0].innerHTML=index+1;
-      })
+//       cardAll.forEach(function(item){
+//         console.log(item);
+        
+//         item.classList.add('none');
+//       })
+
+//       seriesOne.forEach(function(item,index){
+//         item.classList.remove("none");
+//         item.children[1].children[0].innerHTML=index+1;
+//       })
     
-  })
-  }
+//   })
+//   }
 
-  if(!!seriesTwoBtn){
+//   if(!!seriesTwoBtn){
 
-    seriesTwoBtn.addEventListener('click',function(event){
-      sideBar.classList.remove('visible');
+//     seriesTwoBtn.addEventListener('click',function(event){
+//       sideBar.classList.remove('visible');
 
-      if(!!inYearBtn26){
-        inYearBtn26.checked = true;
-      }
+//       if(!!inYearBtn26){
+//         inYearBtn26.checked = true;
+//       }
 
-      productAll.forEach(function(item){
-        item.classList.add('none');
-      })
+//       cardAll.forEach(function(item){
+//         item.classList.add('none');
+//       })
 
-      seriesTwo.forEach(function(item,index){
-        item.classList.remove("none");
-        item.children[1].children[0].innerHTML=index+1;
-      })
+//       seriesTwo.forEach(function(item,index){
+//         item.classList.remove("none");
+//         item.children[1].children[0].innerHTML=index+1;
+//       })
     
-  })
-  }
+//   })
+//   }
 
-  if(!!seriesThreeBtn){
+//   if(!!seriesThreeBtn){
 
-    seriesThreeBtn.addEventListener('click',function(event){
-      sideBar.classList.remove('visible');
+//     seriesThreeBtn.addEventListener('click',function(event){
+//       sideBar.classList.remove('visible');
 
-      if(!!inYearBtn26){
-        inYearBtn26.checked = true;
-      }
+//       if(!!inYearBtn26){
+//         inYearBtn26.checked = true;
+//       }
 
-      productAll.forEach(function(item){
-        item.classList.add('none');
-      })
+//       cardAll.forEach(function(item){
+//         item.classList.add('none');
+//       })
 
-      seriesThree.forEach(function(item,index){
-        item.classList.remove("none");
-        item.children[1].children[0].innerHTML=index+1;
-      })
+//       seriesThree.forEach(function(item,index){
+//         item.classList.remove("none");
+//         item.children[1].children[0].innerHTML=index+1;
+//       })
     
-  })
-  }
+//   })
+//   }
 
-  if(!!seriesFourBtn){
+//   if(!!seriesFourBtn){
 
-    seriesFourBtn.addEventListener('click',function(event){
-      sideBar.classList.remove('visible');
+//     seriesFourBtn.addEventListener('click',function(event){
+//       sideBar.classList.remove('visible');
 
-      if(!!inYearBtn26){
-        inYearBtn26.checked = true;
-      }
+//       if(!!inYearBtn26){
+//         inYearBtn26.checked = true;
+//       }
 
-      productAll.forEach(function(item){
-        item.classList.add('none');
-      })
+//       cardAll.forEach(function(item){
+//         item.classList.add('none');
+//       })
 
-      seriesFour.forEach(function(item,index){
-        item.classList.remove("none");
-        item.children[1].children[0].innerHTML=index+1;
-      })
+//       seriesFour.forEach(function(item,index){
+//         item.classList.remove("none");
+//         item.children[1].children[0].innerHTML=index+1;
+//       })
     
-  })
-  }
+//   })
+//   }
 
-  if(!!seriesFiveBtn){
+//   if(!!seriesFiveBtn){
 
-    seriesFiveBtn.addEventListener('click',function(event){
-      sideBar.classList.remove('visible');
+//     seriesFiveBtn.addEventListener('click',function(event){
+//       sideBar.classList.remove('visible');
 
-      if(!!inYearBtn26){
-        inYearBtn26.checked = true;
-      }
+//       if(!!inYearBtn26){
+//         inYearBtn26.checked = true;
+//       }
 
-      productAll.forEach(function(item,index){
-        item.classList.add('none');
-      })
+//       cardAll.forEach(function(item,index){
+//         item.classList.add('none');
+//       })
 
-      seriesFive.forEach(function(item,index){
-        item.classList.remove("none");
-        item.children[1].children[0].innerHTML=index+1;
-      })
+//       seriesFive.forEach(function(item,index){
+//         item.classList.remove("none");
+//         item.children[1].children[0].innerHTML=index+1;
+//       })
     
-  })
-  }
+//   })
+//   }
 
-  if(!!seriesSixBtn){
+//   if(!!seriesSixBtn){
 
-    seriesSixBtn.addEventListener('click',function(event){
-      sideBar.classList.remove('visible');
+//     seriesSixBtn.addEventListener('click',function(event){
+//       sideBar.classList.remove('visible');
 
-      if(!!inYearBtn26){
-        inYearBtn26.checked = true;
-      }
+//       if(!!inYearBtn26){
+//         inYearBtn26.checked = true;
+//       }
 
-      productAll.forEach(function(item){
-      item.classList.add('none');
-      })
+//       cardAll.forEach(function(item){
+//       item.classList.add('none');
+//       })
 
-      seriesSix.forEach(function(item,index){
-        item.classList.remove("none");
-        item.children[1].children[0].innerHTML=index+1;
-      })
+//       seriesSix.forEach(function(item,index){
+//         item.classList.remove("none");
+//         item.children[1].children[0].innerHTML=index+1;
+//       })
     
-  })
-  }
+//   })
+//   }
 
-  if(!!seriesSevenBtn){
+//   if(!!seriesSevenBtn){
 
-    seriesSevenBtn.addEventListener('click',function(event){
-      sideBar.classList.remove('visible');
+//     seriesSevenBtn.addEventListener('click',function(event){
+//       sideBar.classList.remove('visible');
 
-      if(!!inYearBtn26){
-        inYearBtn26.checked = true;
-      }
+//       if(!!inYearBtn26){
+//         inYearBtn26.checked = true;
+//       }
 
-      productAll.forEach(function(item){
-        item.classList.add('none');
-      })
+//       cardAll.forEach(function(item){
+//         item.classList.add('none');
+//       })
 
-      seriesSeven.forEach(function(item,index){
-        item.classList.remove("none");
-        item.children[1].children[0].innerHTML=index+1;
-      })
+//       seriesSeven.forEach(function(item,index){
+//         item.classList.remove("none");
+//         item.children[1].children[0].innerHTML=index+1;
+//       })
     
-  })
-  }
+//   })
+//   }
 
-  if(!!seriesEightBtn){
+//   if(!!seriesEightBtn){
 
-    seriesEightBtn.addEventListener('click',function(event){
-      sideBar.classList.remove('visible');
+//     seriesEightBtn.addEventListener('click',function(event){
+//       sideBar.classList.remove('visible');
 
-      if(!!inYearBtn26){
-        inYearBtn26.checked = true;
-      }
+//       if(!!inYearBtn26){
+//         inYearBtn26.checked = true;
+//       }
 
-      productAll.forEach(function(item){
-        item.classList.add('none');
-      })
+//       cardAll.forEach(function(item){
+//         item.classList.add('none');
+//       })
 
-      seriesEight.forEach(function(item,index){
-        item.classList.remove("none");
-        item.children[1].children[0].innerHTML=index+1;
-      })
+//       seriesEight.forEach(function(item,index){
+//         item.classList.remove("none");
+//         item.children[1].children[0].innerHTML=index+1;
+//       })
     
-  })
-  }
+//   })
+//   }
 
-  if(!!seriesNineBtn){
+//   if(!!seriesNineBtn){
 
-    seriesNineBtn.addEventListener('click',function(event){
-      sideBar.classList.remove('visible');
+//     seriesNineBtn.addEventListener('click',function(event){
+//       sideBar.classList.remove('visible');
 
-      if(!!inYearBtn26){
-        inYearBtn26.checked = true;
-      }
+//       if(!!inYearBtn26){
+//         inYearBtn26.checked = true;
+//       }
 
-      productAll.forEach(function(item){
-        item.classList.add('none');
-      })
+//       cardAll.forEach(function(item){
+//         item.classList.add('none');
+//       })
 
-      seriesNine.forEach(function(item,index){
-        item.classList.remove("none");
-        item.children[1].children[0].innerHTML=index+1;
-      })
+//       seriesNine.forEach(function(item,index){
+//         item.classList.remove("none");
+//         item.children[1].children[0].innerHTML=index+1;
+//       })
     
-  })
-  }
+//   })
+//   }
 
-  if(!!seriesTenBtn){
+//   if(!!seriesTenBtn){
 
-    seriesTenBtn.addEventListener('click',function(event){
-      sideBar.classList.remove('visible');
-      if(!!inYearBtn26){
-        inYearBtn26.checked = true;
-      }
+//     seriesTenBtn.addEventListener('click',function(event){
+//       sideBar.classList.remove('visible');
+//       if(!!inYearBtn26){
+//         inYearBtn26.checked = true;
+//       }
 
-      productAll.forEach(function(item,index){
-        item.classList.remove('none');
-        item.children[1].children[0].innerHTML=index+1;
-      })
+//       cardAll.forEach(function(item,index){
+//         item.classList.remove('none');
+//         item.children[1].children[0].innerHTML=index+1;
+//       })
     
-  })
-  }
+//   })
+//   }
   
-}
+// }
 
-export default seriesFilter;
+// export default seriesFilter;

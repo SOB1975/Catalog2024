@@ -8,6 +8,21 @@ const id25ru = document.getElementById('25ru');
 import json25ru from './modules/25rujson.js';
 const id10rubm = document.getElementById('10rubm');
 import json10rubm from './modules/10rubmjson.js';
+const id10rugvs = document.getElementById('10rugvs');
+import json10rugvs from './modules/10rugvsjson.js';
+//25ru create
+import createContent from './modules/create25ru.js'; 
+if(!!id25ru){
+  createContent(json25ru(),id25ru);
+}
+if(!!id10rubm){
+  createContent(json10rubm(),id10rubm);
+}
+if(!!id10rugvs){
+  createContent(json10rugvs(),id10rugvs);
+}
+
+//json25ru
 // console.log(json25ru());
 // // Open close button catalog
 import headerBtn from './modules/headerbtn.js';
@@ -26,11 +41,11 @@ productNumber();
 import productCalc from './modules/productcalc.js';
 productCalc();
 // filter series
-import seriesFilter from './modules/series.js';
-seriesFilter();
+// import seriesFilter from './modules/series.js';
+// seriesFilter();
 // filter for year
-import filter from './modules/filter.js';
-filter();
+// import filter from './modules/filter.js';
+// filter();
 //mobile nav down
 import mobileNav from './modules/mobile-nav.js';
 mobileNav();
@@ -43,11 +58,7 @@ statistic();
 //tabs switch
 import tabs from './modules/tabs.js'; 
 tabs();
-//25ru create
-import createContent from './modules/create25ru.js'; 
-createContent(json25ru(),id25ru);
-createContent(json10rubm(),id10rubm);
-//json25ru
+
 
 
 
