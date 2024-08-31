@@ -1241,13 +1241,9 @@ for(let i=0;i<parsUserData.length;i++){
   
   
   }
-
-  
-  
-  
   
 }
-// const sideBar = document.querySelector('.sidebar');
+
 // 
 const inYearBtn26 = document.getElementById('inyear-26');
 // all cards
