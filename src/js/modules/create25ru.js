@@ -1247,7 +1247,7 @@ for(let i=0;i<parsUserData.length;i++){
   
   
 }
-const sideBar = document.querySelector('.sidebar');
+// const sideBar = document.querySelector('.sidebar');
 // 
 const inYearBtn26 = document.getElementById('inyear-26');
 // all cards
@@ -1272,11 +1272,13 @@ const seriesEightBtn = document.getElementById('series-8');
 const seriesNineBtn = document.getElementById('series-9');
 // кнопка series-10
 const seriesTenBtn = document.getElementById('series-10');
-
+const sideBar = document.querySelector('.sidebar');
 
 if(!!seriesOneBtn){
 
     seriesOneBtn.addEventListener('click',function(event){
+      sideBar.classList.remove('visible');
+      sideBar.classList.remove('none');
 
       cardAll.forEach(function(item){
         if(item.getAttribute("data-series") == "data-series = series-1" ){
@@ -1294,6 +1296,8 @@ if(!!seriesOneBtn){
 
 if(!!seriesTwoBtn){
   seriesTwoBtn.addEventListener('click',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
     cardAll.forEach((item)=>{
         if(item.getAttribute("data-series") == "data-series = series-2"){
           item.classList.remove("none");
@@ -1306,6 +1310,8 @@ if(!!seriesTwoBtn){
 
 if(!!seriesThreeBtn){
   seriesThreeBtn.addEventListener('click',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
     cardAll.forEach((item)=>{
         if(item.getAttribute("data-series") == "data-series = series-3" ){
           item.classList.remove("none");
@@ -1318,6 +1324,8 @@ if(!!seriesThreeBtn){
 
 if(!!seriesFourBtn){
   seriesFourBtn.addEventListener('click',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
     cardAll.forEach((item)=>{
         if(item.getAttribute("data-series") == "data-series = series-4" ){
           item.classList.remove("none");
@@ -1330,6 +1338,8 @@ if(!!seriesFourBtn){
 
 if(!!seriesFiveBtn){
   seriesFiveBtn.addEventListener('click',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
     cardAll.forEach((item)=>{
         if(item.getAttribute("data-series") == "data-series = series-5" ){
           item.classList.remove("none");
@@ -1342,6 +1352,8 @@ if(!!seriesFiveBtn){
 
 if(!!seriesSixBtn){
   seriesSixBtn.addEventListener('click',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
     cardAll.forEach((item)=>{
         if(item.getAttribute("data-series") == "data-series = series-6" ){
           item.classList.remove("none");
@@ -1354,6 +1366,8 @@ if(!!seriesSixBtn){
 
 if(!!seriesSevenBtn){
   seriesSevenBtn.addEventListener('click',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
     cardAll.forEach((item)=>{
         if(item.getAttribute("data-series") == "data-series = series-7" ){
           item.classList.remove("none");
@@ -1366,6 +1380,8 @@ if(!!seriesSevenBtn){
 
 if(!!seriesEightBtn){
   seriesEightBtn.addEventListener('click',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
     cardAll.forEach((item)=>{
         if(item.getAttribute("data-series") == "data-series = series-8" ){
           item.classList.remove("none");
@@ -1378,6 +1394,8 @@ if(!!seriesEightBtn){
 
 if(!!seriesNineBtn){
   seriesNineBtn.addEventListener('click',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
     cardAll.forEach((item)=>{
         if(item.getAttribute("data-series") == "data-series = series-9" ){
           item.classList.remove("none");
@@ -1390,12 +1408,477 @@ if(!!seriesNineBtn){
 
 if(!!seriesTenBtn){
   seriesTenBtn.addEventListener('click',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
     cardAll.forEach((item)=>{
           item.classList.remove("none");
     })
   })
 }
 
+//кнопка year-1
+const inYearBtn1 = document.getElementById('inyear-1');
+//кнопка year-2
+const inYearBtn2 = document.getElementById('inyear-2');
+//кнопка year-3
+const inYearBtn3 = document.getElementById('inyear-3');
+//кнопка year-4
+const inYearBtn4 = document.getElementById('inyear-4');
+//кнопка year-5
+const inYearBtn5 = document.getElementById('inyear-5');
+//кнопка year-6
+const inYearBtn6 = document.getElementById('inyear-6');
+//кнопка year-7
+const inYearBtn7 = document.getElementById('inyear-7');
+//кнопка year-8
+const inYearBtn8 = document.getElementById('inyear-8');
+//кнопка year-9
+const inYearBtn9 = document.getElementById('inyear-9');
+//кнопка year-10
+const inYearBtn10 = document.getElementById('inyear-10');
+//кнопка year-11
+const inYearBtn11 = document.getElementById('inyear-11');
+//кнопка year-12
+const inYearBtn12 = document.getElementById('inyear-12');
+//кнопка year-13
+const inYearBtn13 = document.getElementById('inyear-13');
+//кнопка year-14
+const inYearBtn14 = document.getElementById('inyear-14');
+//кнопка year-15
+const inYearBtn15 = document.getElementById('inyear-15');
+//кнопка year-16
+const inYearBtn16 = document.getElementById('inyear-16');
+//кнопка year-17
+const inYearBtn17 = document.getElementById('inyear-17');
+//кнопка year-18
+const inYearBtn18 = document.getElementById('inyear-18');
+//кнопка year-19
+const inYearBtn19 = document.getElementById('inyear-19');
+//кнопка year-20
+const inYearBtn20 = document.getElementById('inyear-20');
+//кнопка year-21
+const inYearBtn21 = document.getElementById('inyear-21');
+//кнопка year-22
+const inYearBtn22 = document.getElementById('inyear-22');
+//кнопка year-23
+const inYearBtn23 = document.getElementById('inyear-23');
+//кнопка year-24
+const inYearBtn24 = document.getElementById('inyear-24');
+//кнопка year-25
+const inYearBtn25 = document.getElementById('inyear-25');
+
+  // console.log(inYearBtn1);
+if(!!inYearBtn1){
+   inYearBtn1.addEventListener('input',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
+    cardAll.forEach(function(item){
+      if(item.getAttribute("data-year") == "data-year = year-1"){
+        item.classList.remove("none");
+      }else{
+        item.classList.add("none");
+      }
+        
+    })
+      
+  })
+}
+
+if(!!inYearBtn2){
+   inYearBtn2.addEventListener('input',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
+    cardAll.forEach(function(item){
+      if(item.getAttribute("data-year") == "data-year = year-2" ){
+        item.classList.remove("none");
+      }else{
+        item.classList.add("none");
+      }
+        
+    })
+      
+  })
+}
+
+if(!!inYearBtn3){
+   inYearBtn3.addEventListener('input',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
+    cardAll.forEach(function(item){
+      if(item.getAttribute("data-year") == "data-year = year-3" ){
+        item.classList.remove("none");
+      }else{
+        item.classList.add("none");
+      }
+        
+    })
+      
+  })
+}
+
+if(!!inYearBtn4){
+   inYearBtn4.addEventListener('input',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
+    cardAll.forEach(function(item){
+      if(item.getAttribute("data-year") == "data-year = year-4" ){
+        item.classList.remove("none");
+      }else{
+        item.classList.add("none");
+      }
+        
+    })
+      
+  })
+}
+
+if(!!inYearBtn5){
+   inYearBtn5.addEventListener('input',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
+    cardAll.forEach(function(item){
+      if(item.getAttribute("data-year") == "data-year = year-5" ){
+        item.classList.remove("none");
+      }else{
+        item.classList.add("none");
+      }
+        
+    })
+      
+  })
+}
+
+if(!!inYearBtn6){
+   inYearBtn6.addEventListener('input',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
+    cardAll.forEach(function(item){
+      if(item.getAttribute("data-year") == "data-year = year-6"){
+        item.classList.remove("none");
+      }else{
+        item.classList.add("none");
+      }
+        
+    })
+      
+  })
+}
+
+if(!!inYearBtn7){
+   inYearBtn7.addEventListener('input',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
+    cardAll.forEach(function(item){
+      if(item.getAttribute("data-year") == "data-year = year-7"){
+        item.classList.remove("none");
+      }else{
+        item.classList.add("none");
+      }
+        
+    })
+      
+  })
+}
+
+if(!!inYearBtn8){
+   inYearBtn8.addEventListener('input',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
+    cardAll.forEach(function(item){
+      if(item.getAttribute("data-year") == "data-year = year-8"){
+        item.classList.remove("none");
+      }else{
+        item.classList.add("none");
+      }
+        
+    })
+      
+  })
+}
+
+if(!!inYearBtn9){
+   inYearBtn9.addEventListener('input',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
+    cardAll.forEach(function(item){
+      if(item.getAttribute("data-year") == "data-year = year-9"){
+        item.classList.remove("none");
+      }else{
+        item.classList.add("none");
+      }
+        
+    })
+      
+  })
+}
+
+if(!!inYearBtn10){
+   inYearBtn10.addEventListener('input',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
+    cardAll.forEach(function(item){
+      if(item.getAttribute("data-year") == "data-year = year-10"){
+        item.classList.remove("none");
+      }else{
+        item.classList.add("none");
+      }
+        
+    })
+      
+  })
+}
+
+if(!!inYearBtn11){
+   inYearBtn11.addEventListener('input',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
+    cardAll.forEach(function(item){
+      if(item.getAttribute("data-year") == "data-year = year-11"){
+        item.classList.remove("none");
+      }else{
+        item.classList.add("none");
+      }
+        
+    })
+      
+  })
+}
+
+if(!!inYearBtn12){
+   inYearBtn12.addEventListener('input',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
+    cardAll.forEach(function(item){
+      if(item.getAttribute("data-year") == "data-year = year-12"){
+        item.classList.remove("none");
+      }else{
+        item.classList.add("none");
+      }
+        
+    })
+      
+  })
+}
+
+if(!!inYearBtn13){
+   inYearBtn13.addEventListener('input',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
+    cardAll.forEach(function(item){
+      if(item.getAttribute("data-year") == "data-year = year-13"){
+        item.classList.remove("none");
+      }else{
+        item.classList.add("none");
+      }
+        
+    })
+      
+  })
+}
+
+if(!!inYearBtn14){
+   inYearBtn14.addEventListener('input',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
+    cardAll.forEach(function(item){
+      if(item.getAttribute("data-year") == "data-year = year-14"){
+        item.classList.remove("none");
+      }else{
+        item.classList.add("none");
+      }
+        
+    })
+      
+  })
+}
+
+if(!!inYearBtn15){
+   inYearBtn15.addEventListener('input',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
+    cardAll.forEach(function(item){
+      if(item.getAttribute("data-year") == "data-year = year-15"){
+        item.classList.remove("none");
+      }else{
+        item.classList.add("none");
+      }
+        
+    })
+      
+  })
+}
+
+if(!!inYearBtn16){
+   inYearBtn16.addEventListener('input',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
+    cardAll.forEach(function(item){
+      if(item.getAttribute("data-year") == "data-year = year-16"){
+        item.classList.remove("none");
+      }else{
+        item.classList.add("none");
+      }
+        
+    })
+      
+  })
+}
+
+if(!!inYearBtn17){
+   inYearBtn17.addEventListener('input',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
+    cardAll.forEach(function(item){
+      if(item.getAttribute("data-year") == "data-year = year-17"){
+        item.classList.remove("none");
+      }else{
+        item.classList.add("none");
+      }
+        
+    })
+      
+  })
+}
+
+if(!!inYearBtn18){
+   inYearBtn18.addEventListener('input',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
+    cardAll.forEach(function(item){
+      if(item.getAttribute("data-year") == "data-year = year-18"){
+        item.classList.remove("none");
+      }else{
+        item.classList.add("none");
+      }
+        
+    })
+      
+  })
+}
+
+if(!!inYearBtn19){
+   inYearBtn19.addEventListener('input',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
+    cardAll.forEach(function(item){
+      if(item.getAttribute("data-year") == "data-year = year-19"){
+        item.classList.remove("none");
+      }else{
+        item.classList.add("none");
+      }
+        
+    })
+      
+  })
+}
+
+if(!!inYearBtn20){
+   inYearBtn20.addEventListener('input',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
+    cardAll.forEach(function(item){
+      if(item.getAttribute("data-year") == "data-year = year-20"){
+        item.classList.remove("none");
+      }else{
+        item.classList.add("none");
+      }
+        
+    })
+      
+  })
+}
+
+if(!!inYearBtn21){
+   inYearBtn21.addEventListener('input',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
+    cardAll.forEach(function(item){
+      if(item.getAttribute("data-year") == "data-year = year-21"){
+        item.classList.remove("none");
+      }else{
+        item.classList.add("none");
+      }
+        
+    })
+      
+  })
+}
+
+if(!!inYearBtn22){
+   inYearBtn22.addEventListener('input',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
+    cardAll.forEach(function(item){
+      if(item.getAttribute("data-year") == "data-year = year-22"){
+        item.classList.remove("none");
+      }else{
+        item.classList.add("none");
+      }
+        
+    })
+      
+  })
+}
+
+if(!!inYearBtn23){
+   inYearBtn23.addEventListener('input',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
+    cardAll.forEach(function(item){
+      if(item.getAttribute("data-year") == "data-year = year-23"){
+        item.classList.remove("none");
+      }else{
+        item.classList.add("none");
+      }
+        
+    })
+      
+  })
+}
+
+if(!!inYearBtn24){
+   inYearBtn24.addEventListener('input',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
+    cardAll.forEach(function(item){
+      if(item.getAttribute("data-year") == "data-year = year-24"){
+        item.classList.remove("none");
+      }else{
+        item.classList.add("none");
+      }
+        
+    })
+      
+  })
+}
+
+if(!!inYearBtn25){
+   inYearBtn25.addEventListener('input',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
+    cardAll.forEach(function(item){
+      if(item.getAttribute("data-year") == "data-year = year-25"){
+        item.classList.remove("none");
+      }else{
+        item.classList.add("none");
+      }
+        
+    })
+      
+  })
+}
+
+if(!!inYearBtn26){
+  inYearBtn26.checked = true;
+  inYearBtn26.addEventListener('input',()=>{
+    sideBar.classList.remove('visible');
+    sideBar.classList.remove('none');
+    cardAll.forEach((item)=>{
+      item.classList.remove("none");
+    })
+  })
+    
+  }
 }
 
 

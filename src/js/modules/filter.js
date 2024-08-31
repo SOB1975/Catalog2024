@@ -684,23 +684,28 @@ function filter() {
     })
   }
 
-  if(!!inYearBtn26){
+  //кнопка year-1
+  // const inYearBtn1 = document.getElementById('inyear-1');
+  // console.log('Кнопка');
+  
+
+  // if(!!inYearBtn26){
     
-    inYearBtn26.addEventListener('change',function(){
-      sideBar.classList.remove('visible');
-      if(inYearBtn26.checked){
-        console.log('TEST');
+  //   inYearBtn26.addEventListener('change',function(){
+  //     sideBar.classList.remove('visible');
+  //     if(inYearBtn26.checked){
+  //       console.log('TEST');
         
-          productAll.forEach(function(item){
-          // item.children[1].children[0].innerHTML=index+1;
-          numberAll.forEach(function (item,index) {
-            item.innerHTML=index+1;
-          })
-          item.classList.remove('none');
-        })
-      }
-    })
-  }
+  //         productAll.forEach(function(item){
+  //         // item.children[1].children[0].innerHTML=index+1;
+  //         numberAll.forEach(function (item,index) {
+  //           item.innerHTML=index+1;
+  //         })
+  //         item.classList.remove('none');
+  //       })
+  //     }
+  //   })
+  // }
 
 
 }
