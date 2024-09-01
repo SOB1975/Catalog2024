@@ -10,6 +10,8 @@ const id10rubm = document.getElementById('10rubm');
 import json10rubm from './modules/10rubmjson.js';
 const id10rugvs = document.getElementById('10rugvs');
 import json10rugvs from './modules/10rugvsjson.js';
+const id5ruyub = document.getElementById('5ruyub');
+import json5ruyub from './modules/5ruyubjson.js';
 //25ru create
 import createContent from './modules/create25ru.js'; 
 if(!!id25ru){
@@ -20,6 +22,9 @@ if(!!id10rubm){
 }
 if(!!id10rugvs){
   createContent(json10rugvs(),id10rugvs);
+}
+if(!!id5ruyub){
+  createContent(json5ruyub(),id5ruyub);
 }
 
 //json25ru
