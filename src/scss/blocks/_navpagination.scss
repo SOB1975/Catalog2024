@@ -1,0 +1,27 @@
+.nav-pagination {
+  margin: 10px 0 20px 30px;
+
+  &__list {
+    display: flex;
+    gap: 20px;
+  }
+
+  &__item {}
+
+  &__btn {
+    font-size: 34px;
+    font-weight: 700;
+    background-color: $bg-border-accordion;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+
+    &:hover {
+      background-color: $bglborder;
+    }
+  }
+
+  &__btn.active {
+    background-color: $bglborder;
+  }
+}

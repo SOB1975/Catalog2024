@@ -12,6 +12,8 @@ const id10rugvs = document.getElementById('10rugvs');
 import json10rugvs from './modules/10rugvsjson.js';
 const id5ruyub = document.getElementById('5ruyub');
 import json5ruyub from './modules/5ruyubjson.js';
+const id2ruyub = document.getElementById('2ruyub');
+import json2ruyub from './modules/2ruyubjson.js';
 //25ru create
 import createContent from './modules/create25ru.js'; 
 if(!!id25ru){
@@ -25,6 +27,9 @@ if(!!id10rugvs){
 }
 if(!!id5ruyub){
   createContent(json5ruyub(),id5ruyub);
+}
+if(!!id2ruyub){
+  createContent(json2ruyub(),id2ruyub);
 }
 
 //json25ru

@@ -6,6 +6,10 @@
   gap: 10px;
   padding: 30px;
 
+  // &:not(:nth-child(-n+20)) {
+  //   display: none;
+  // }
+
   @include computer-sm {
     grid-template-columns: repeat(3, 33%) !important;
   }
@@ -28,7 +32,11 @@
   position: relative;
   transition: all 0.2s ease-in;
 
-  // &:not(:nth-child(-n+12)) {
+  // &:not(:nth-child(-n+20)) {
+  //   display: none;
+  // }
+
+  // &:nth-child(n + 2):nth-child(-n + 5) {
   //   display: none;
   // }
 
@@ -159,4 +167,32 @@
     font-size: 18px;
     font-weight: 700;
   }
+}
+
+.card.select:not(:nth-child(-n+20)) {
+  display: none;
+}
+
+.card.select1:not(:nth-child(-n + 40)) {
+  display: none;
+}
+
+.card.select2:not(:nth-child(-n + 60)) {
+  display: none;
+}
+
+.card.select3:not(:nth-child(-n + 80)) {
+  display: none;
+}
+
+.card.select4:not(:nth-child(-n + 100)) {
+  display: none;
+}
+
+.card.select5:not(:nth-child(-n + 120)) {
+  display: none;
+}
+
+.card.select6:not(:nth-child(-n + 140)) {
+  display: none;
 }

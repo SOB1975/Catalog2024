@@ -1099,7 +1099,7 @@ for(let i=0;i<parsUserData.length;i++){
     // top card block
   let cardTop = document.createElement('div');
   // add children for products and add class card
-  products.appendChild(card).className="card";
+  products.appendChild(card).className="card select";
   //add attribute for card
   card.setAttribute("data-series", parsUserData[i].dataseries);
   card.setAttribute("data-year", parsUserData[i].datayear);
@@ -1277,6 +1277,14 @@ if(!!seriesOneBtn){
       sideBar.classList.remove('none');
 
       cardAll.forEach(function(item){
+        item.classList.remove('select');
+        item.classList.remove('select1');
+        item.classList.remove('select2');
+        item.classList.remove('select3');
+        item.classList.remove('select4');
+        item.classList.remove('select5');
+        item.classList.remove('select6');
+        item.classList.remove('select7');
         if(item.getAttribute("data-series") == "data-series = series-1" ){
           item.classList.remove("none");
         }else{
@@ -1295,6 +1303,14 @@ if(!!seriesTwoBtn){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach((item)=>{
+        item.classList.remove('select');
+        item.classList.remove('select1');
+        item.classList.remove('select2');
+        item.classList.remove('select3');
+        item.classList.remove('select4');
+        item.classList.remove('select5');
+        item.classList.remove('select6');
+        item.classList.remove('select7');
         if(item.getAttribute("data-series") == "data-series = series-2"){
           item.classList.remove("none");
         }else{
@@ -1309,6 +1325,14 @@ if(!!seriesThreeBtn){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach((item)=>{
+        item.classList.remove('select');
+        item.classList.remove('select1');
+        item.classList.remove('select2');
+        item.classList.remove('select3');
+        item.classList.remove('select4');
+        item.classList.remove('select5');
+        item.classList.remove('select6');
+        item.classList.remove('select7');
         if(item.getAttribute("data-series") == "data-series = series-3" ){
           item.classList.remove("none");
         }else{
@@ -1323,6 +1347,14 @@ if(!!seriesFourBtn){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach((item)=>{
+        item.classList.remove('select');
+        item.classList.remove('select1');
+        item.classList.remove('select2');
+        item.classList.remove('select3');
+        item.classList.remove('select4');
+        item.classList.remove('select5');
+        item.classList.remove('select6');
+        item.classList.remove('select7');
         if(item.getAttribute("data-series") == "data-series = series-4" ){
           item.classList.remove("none");
         }else{
@@ -1337,6 +1369,14 @@ if(!!seriesFiveBtn){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach((item)=>{
+        item.classList.remove('select');
+        item.classList.remove('select1');
+        item.classList.remove('select2');
+        item.classList.remove('select3');
+        item.classList.remove('select4');
+        item.classList.remove('select5');
+        item.classList.remove('select6');
+        item.classList.remove('select7');
         if(item.getAttribute("data-series") == "data-series = series-5" ){
           item.classList.remove("none");
         }else{
@@ -1351,6 +1391,14 @@ if(!!seriesSixBtn){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach((item)=>{
+        item.classList.remove('select');
+        item.classList.remove('select1');
+        item.classList.remove('select2');
+        item.classList.remove('select3');
+        item.classList.remove('select4');
+        item.classList.remove('select5');
+        item.classList.remove('select6');
+        item.classList.remove('select7');
         if(item.getAttribute("data-series") == "data-series = series-6" ){
           item.classList.remove("none");
         }else{
@@ -1365,6 +1413,14 @@ if(!!seriesSevenBtn){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach((item)=>{
+        item.classList.remove('select');
+        item.classList.remove('select1');
+        item.classList.remove('select2');
+        item.classList.remove('select3');
+        item.classList.remove('select4');
+        item.classList.remove('select5');
+        item.classList.remove('select6');
+        item.classList.remove('select7');
         if(item.getAttribute("data-series") == "data-series = series-7" ){
           item.classList.remove("none");
         }else{
@@ -1379,6 +1435,14 @@ if(!!seriesEightBtn){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach((item)=>{
+        item.classList.remove('select');
+        item.classList.remove('select1');
+        item.classList.remove('select2');
+        item.classList.remove('select3');
+        item.classList.remove('select4');
+        item.classList.remove('select5');
+        item.classList.remove('select6');
+        item.classList.remove('select7');
         if(item.getAttribute("data-series") == "data-series = series-8" ){
           item.classList.remove("none");
         }else{
@@ -1393,6 +1457,14 @@ if(!!seriesNineBtn){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach((item)=>{
+        item.classList.remove('select');
+        item.classList.remove('select1');
+        item.classList.remove('select2');
+        item.classList.remove('select3');
+        item.classList.remove('select4');
+        item.classList.remove('select5');
+        item.classList.remove('select6');
+        item.classList.remove('select7');
         if(item.getAttribute("data-series") == "data-series = series-9" ){
           item.classList.remove("none");
         }else{
@@ -1408,6 +1480,14 @@ if(!!seriesTenBtn){
     sideBar.classList.remove('none');
     cardAll.forEach((item)=>{
           item.classList.remove("none");
+          item.classList.remove('select');
+          item.classList.remove('select1');
+          item.classList.remove('select2');
+          item.classList.remove('select3');
+          item.classList.remove('select4');
+          item.classList.remove('select5');
+          item.classList.remove('select6');
+          item.classList.remove('select7');
     })
   })
 }
@@ -1469,6 +1549,14 @@ if(!!inYearBtn1){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach(function(item){
+      item.classList.remove('select');
+      item.classList.remove('select1');
+      item.classList.remove('select2');
+      item.classList.remove('select3');
+      item.classList.remove('select4');
+      item.classList.remove('select5');
+      item.classList.remove('select6');
+      item.classList.remove('select7');
       if(item.getAttribute("data-year") == "data-year = year-1"){
         item.classList.remove("none");
       }else{
@@ -1485,6 +1573,14 @@ if(!!inYearBtn2){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach(function(item){
+      item.classList.remove('select');
+      item.classList.remove('select1');
+      item.classList.remove('select2');
+      item.classList.remove('select3');
+      item.classList.remove('select4');
+      item.classList.remove('select5');
+      item.classList.remove('select6');
+      item.classList.remove('select7');
       if(item.getAttribute("data-year") == "data-year = year-2" ){
         item.classList.remove("none");
       }else{
@@ -1501,6 +1597,14 @@ if(!!inYearBtn3){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach(function(item){
+      item.classList.remove('select');
+      item.classList.remove('select1');
+      item.classList.remove('select2');
+      item.classList.remove('select3');
+      item.classList.remove('select4');
+      item.classList.remove('select5');
+      item.classList.remove('select6');
+      item.classList.remove('select7');
       if(item.getAttribute("data-year") == "data-year = year-3" ){
         item.classList.remove("none");
       }else{
@@ -1517,6 +1621,14 @@ if(!!inYearBtn4){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach(function(item){
+      item.classList.remove('select');
+      item.classList.remove('select1');
+      item.classList.remove('select2');
+      item.classList.remove('select3');
+      item.classList.remove('select4');
+      item.classList.remove('select5');
+      item.classList.remove('select6');
+      item.classList.remove('select7');
       if(item.getAttribute("data-year") == "data-year = year-4" ){
         item.classList.remove("none");
       }else{
@@ -1533,6 +1645,14 @@ if(!!inYearBtn5){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach(function(item){
+      item.classList.remove('select');
+      item.classList.remove('select1');
+      item.classList.remove('select2');
+      item.classList.remove('select3');
+      item.classList.remove('select4');
+      item.classList.remove('select5');
+      item.classList.remove('select6');
+      item.classList.remove('select7');
       if(item.getAttribute("data-year") == "data-year = year-5" ){
         item.classList.remove("none");
       }else{
@@ -1549,6 +1669,14 @@ if(!!inYearBtn6){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach(function(item){
+      item.classList.remove('select');
+      item.classList.remove('select1');
+      item.classList.remove('select2');
+      item.classList.remove('select3');
+      item.classList.remove('select4');
+      item.classList.remove('select5');
+      item.classList.remove('select6');
+      item.classList.remove('select7');
       if(item.getAttribute("data-year") == "data-year = year-6"){
         item.classList.remove("none");
       }else{
@@ -1565,6 +1693,14 @@ if(!!inYearBtn7){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach(function(item){
+      item.classList.remove('select');
+      item.classList.remove('select1');
+      item.classList.remove('select2');
+      item.classList.remove('select3');
+      item.classList.remove('select4');
+      item.classList.remove('select5');
+      item.classList.remove('select6');
+      item.classList.remove('select7');
       if(item.getAttribute("data-year") == "data-year = year-7"){
         item.classList.remove("none");
       }else{
@@ -1581,6 +1717,14 @@ if(!!inYearBtn8){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach(function(item){
+      item.classList.remove('select');
+      item.classList.remove('select1');
+      item.classList.remove('select2');
+      item.classList.remove('select3');
+      item.classList.remove('select4');
+      item.classList.remove('select5');
+      item.classList.remove('select6');
+      item.classList.remove('select7');      
       if(item.getAttribute("data-year") == "data-year = year-8"){
         item.classList.remove("none");
       }else{
@@ -1597,6 +1741,14 @@ if(!!inYearBtn9){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach(function(item){
+      item.classList.remove('select');
+      item.classList.remove('select1');
+      item.classList.remove('select2');
+      item.classList.remove('select3');
+      item.classList.remove('select4');
+      item.classList.remove('select5');
+      item.classList.remove('select6');
+      item.classList.remove('select7');      
       if(item.getAttribute("data-year") == "data-year = year-9"){
         item.classList.remove("none");
       }else{
@@ -1613,6 +1765,14 @@ if(!!inYearBtn10){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach(function(item){
+      item.classList.remove('select');
+      item.classList.remove('select1');
+      item.classList.remove('select2');
+      item.classList.remove('select3');
+      item.classList.remove('select4');
+      item.classList.remove('select5');
+      item.classList.remove('select6');
+      item.classList.remove('select7');      
       if(item.getAttribute("data-year") == "data-year = year-10"){
         item.classList.remove("none");
       }else{
@@ -1629,6 +1789,14 @@ if(!!inYearBtn11){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach(function(item){
+      item.classList.remove('select');
+      item.classList.remove('select1');
+      item.classList.remove('select2');
+      item.classList.remove('select3');
+      item.classList.remove('select4');
+      item.classList.remove('select5');
+      item.classList.remove('select6');
+      item.classList.remove('select7');
       if(item.getAttribute("data-year") == "data-year = year-11"){
         item.classList.remove("none");
       }else{
@@ -1645,6 +1813,14 @@ if(!!inYearBtn12){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach(function(item){
+      item.classList.remove('select');
+      item.classList.remove('select1');
+      item.classList.remove('select2');
+      item.classList.remove('select3');
+      item.classList.remove('select4');
+      item.classList.remove('select5');
+      item.classList.remove('select6');
+      item.classList.remove('select7');
       if(item.getAttribute("data-year") == "data-year = year-12"){
         item.classList.remove("none");
       }else{
@@ -1661,6 +1837,14 @@ if(!!inYearBtn13){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach(function(item){
+      item.classList.remove('select');
+      item.classList.remove('select1');
+      item.classList.remove('select2');
+      item.classList.remove('select3');
+      item.classList.remove('select4');
+      item.classList.remove('select5');
+      item.classList.remove('select6');
+      item.classList.remove('select7');
       if(item.getAttribute("data-year") == "data-year = year-13"){
         item.classList.remove("none");
       }else{
@@ -1677,6 +1861,14 @@ if(!!inYearBtn14){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach(function(item){
+      item.classList.remove('select');
+      item.classList.remove('select1');
+      item.classList.remove('select2');
+      item.classList.remove('select3');
+      item.classList.remove('select4');
+      item.classList.remove('select5');
+      item.classList.remove('select6');
+      item.classList.remove('select7');
       if(item.getAttribute("data-year") == "data-year = year-14"){
         item.classList.remove("none");
       }else{
@@ -1693,6 +1885,14 @@ if(!!inYearBtn15){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach(function(item){
+      item.classList.remove('select');
+      item.classList.remove('select1');
+      item.classList.remove('select2');
+      item.classList.remove('select3');
+      item.classList.remove('select4');
+      item.classList.remove('select5');
+      item.classList.remove('select6');
+      item.classList.remove('select7');
       if(item.getAttribute("data-year") == "data-year = year-15"){
         item.classList.remove("none");
       }else{
@@ -1709,6 +1909,14 @@ if(!!inYearBtn16){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach(function(item){
+      item.classList.remove('select');
+      item.classList.remove('select1');
+      item.classList.remove('select2');
+      item.classList.remove('select3');
+      item.classList.remove('select4');
+      item.classList.remove('select5');
+      item.classList.remove('select6');
+      item.classList.remove('select7');
       if(item.getAttribute("data-year") == "data-year = year-16"){
         item.classList.remove("none");
       }else{
@@ -1725,6 +1933,14 @@ if(!!inYearBtn17){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach(function(item){
+      item.classList.remove('select');
+      item.classList.remove('select1');
+      item.classList.remove('select2');
+      item.classList.remove('select3');
+      item.classList.remove('select4');
+      item.classList.remove('select5');
+      item.classList.remove('select6');
+      item.classList.remove('select7');
       if(item.getAttribute("data-year") == "data-year = year-17"){
         item.classList.remove("none");
       }else{
@@ -1741,6 +1957,14 @@ if(!!inYearBtn18){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach(function(item){
+      item.classList.remove('select');
+      item.classList.remove('select1');
+      item.classList.remove('select2');
+      item.classList.remove('select3');
+      item.classList.remove('select4');
+      item.classList.remove('select5');
+      item.classList.remove('select6');
+      item.classList.remove('select7');
       if(item.getAttribute("data-year") == "data-year = year-18"){
         item.classList.remove("none");
       }else{
@@ -1757,6 +1981,14 @@ if(!!inYearBtn19){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach(function(item){
+      item.classList.remove('select');
+      item.classList.remove('select1');
+      item.classList.remove('select2');
+      item.classList.remove('select3');
+      item.classList.remove('select4');
+      item.classList.remove('select5');
+      item.classList.remove('select6');
+      item.classList.remove('select7');
       if(item.getAttribute("data-year") == "data-year = year-19"){
         item.classList.remove("none");
       }else{
@@ -1773,6 +2005,14 @@ if(!!inYearBtn20){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach(function(item){
+      item.classList.remove('select');
+      item.classList.remove('select1');
+      item.classList.remove('select2');
+      item.classList.remove('select3');
+      item.classList.remove('select4');
+      item.classList.remove('select5');
+      item.classList.remove('select6');
+      item.classList.remove('select7');
       if(item.getAttribute("data-year") == "data-year = year-20"){
         item.classList.remove("none");
       }else{
@@ -1789,6 +2029,14 @@ if(!!inYearBtn21){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach(function(item){
+      item.classList.remove('select');
+      item.classList.remove('select1');
+      item.classList.remove('select2');
+      item.classList.remove('select3');
+      item.classList.remove('select4');
+      item.classList.remove('select5');
+      item.classList.remove('select6');
+      item.classList.remove('select7');
       if(item.getAttribute("data-year") == "data-year = year-21"){
         item.classList.remove("none");
       }else{
@@ -1805,6 +2053,14 @@ if(!!inYearBtn22){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach(function(item){
+      item.classList.remove('select');
+      item.classList.remove('select1');
+      item.classList.remove('select2');
+      item.classList.remove('select3');
+      item.classList.remove('select4');
+      item.classList.remove('select5');
+      item.classList.remove('select6');
+      item.classList.remove('select7');
       if(item.getAttribute("data-year") == "data-year = year-22"){
         item.classList.remove("none");
       }else{
@@ -1821,6 +2077,14 @@ if(!!inYearBtn23){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach(function(item){
+      item.classList.remove('select');
+      item.classList.remove('select1');
+      item.classList.remove('select2');
+      item.classList.remove('select3');
+      item.classList.remove('select4');
+      item.classList.remove('select5');
+      item.classList.remove('select6');
+      item.classList.remove('select7');
       if(item.getAttribute("data-year") == "data-year = year-23"){
         item.classList.remove("none");
       }else{
@@ -1837,6 +2101,14 @@ if(!!inYearBtn24){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach(function(item){
+      item.classList.remove('select');
+      item.classList.remove('select1');
+      item.classList.remove('select2');
+      item.classList.remove('select3');
+      item.classList.remove('select4');
+      item.classList.remove('select5');
+      item.classList.remove('select6');
+      item.classList.remove('select7');
       if(item.getAttribute("data-year") == "data-year = year-24"){
         item.classList.remove("none");
       }else{
@@ -1853,6 +2125,14 @@ if(!!inYearBtn25){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach(function(item){
+      item.classList.remove('select');
+      item.classList.remove('select1');
+      item.classList.remove('select2');
+      item.classList.remove('select3');
+      item.classList.remove('select4');
+      item.classList.remove('select5');
+      item.classList.remove('select6');
+      item.classList.remove('select7');
       if(item.getAttribute("data-year") == "data-year = year-25"){
         item.classList.remove("none");
       }else{
@@ -1870,11 +2150,186 @@ if(!!inYearBtn26){
     sideBar.classList.remove('visible');
     sideBar.classList.remove('none');
     cardAll.forEach((item)=>{
+      item.classList.remove('select');
+      item.classList.remove('select1');
+      item.classList.remove('select2');
+      item.classList.remove('select3');
+      item.classList.remove('select4');
+      item.classList.remove('select5');
+      item.classList.remove('select6');
+      item.classList.remove('select7');
       item.classList.remove("none");
     })
   })
     
   }
+  // all buttons nav-pagination__btn
+  const pagBtnAll=document.querySelectorAll('.nav-pagination__btn');
+  // console.log(pagBtnAll);
+  pagBtnAll.forEach((item)=>{
+    if(!!item){
+      // console.log('ИСТИНА');
+      item.addEventListener('click',(event)=>{
+        // console.log(event.target.id);
+        console.log(event);
+        
+        if(event.target.id=="pgbtn-1"){
+          // console.log('ИСТИНА');
+          cardAll.forEach((item)=>{
+            item.classList.remove('select1');
+            item.classList.remove('select2');
+            item.classList.remove('select3');
+            item.classList.remove('select4');
+            item.classList.remove('select5');
+            item.classList.remove('select6');
+          })
+          cardAll.forEach((item)=>{
+            item.classList.add('select');
+          })
+          pagBtnAll.forEach((item,index)=>{
+            item.classList.remove('active');
+            if(index==0){
+              item.classList.add('active');
+            }
+          })
+          
+        }
+
+        if(event.target.id=="pgbtn-2"){
+          cardAll.forEach((item)=>{
+            item.classList.remove('select');
+            item.classList.remove('select2');
+            item.classList.remove('select3');
+            item.classList.remove('select4');
+            item.classList.remove('select5');
+            item.classList.remove('select6');
+          })
+          cardAll.forEach((item)=>{
+            item.classList.add('select1');
+          })
+
+          pagBtnAll.forEach((item,index)=>{
+            item.classList.remove('active');
+            if(index==1){
+              item.classList.add('active');
+            }
+          })
+
+        }
+
+        if(event.target.id=="pgbtn-3"){
+          cardAll.forEach((item)=>{
+            item.classList.remove('select');
+            item.classList.remove('select1');
+            item.classList.remove('select3');
+            item.classList.remove('select4');
+            item.classList.remove('select5');
+            item.classList.remove('select6');
+          })
+          cardAll.forEach((item)=>{
+            item.classList.add('select2');
+          })
+
+          pagBtnAll.forEach((item,index)=>{
+            item.classList.remove('active');
+            if(index==2){
+              item.classList.add('active');
+            }
+          })
+
+        }
+
+        if(event.target.id=="pgbtn-4"){
+          cardAll.forEach((item)=>{
+            item.classList.remove('select');
+            item.classList.remove('select1');
+            item.classList.remove('select2');
+            item.classList.remove('select4');
+            item.classList.remove('select5');
+            item.classList.remove('select6');
+          })
+          cardAll.forEach((item)=>{
+            item.classList.add('select3');
+          })
+
+          pagBtnAll.forEach((item,index)=>{
+            item.classList.remove('active');
+            if(index==3){
+              item.classList.add('active');
+            }
+          })
+
+        }
+
+        if(event.target.id=="pgbtn-5"){
+          cardAll.forEach((item)=>{
+            item.classList.remove('select');
+            item.classList.remove('select1');
+            item.classList.remove('select2');
+            item.classList.remove('select3');
+            item.classList.remove('select5');
+            item.classList.remove('select6');
+          })
+          cardAll.forEach((item)=>{
+            item.classList.add('select4');
+          })
+
+          pagBtnAll.forEach((item,index)=>{
+            item.classList.remove('active');
+            if(index==4){
+              item.classList.add('active');
+            }
+          })
+
+        }
+
+        if(event.target.id=="pgbtn-6"){
+          cardAll.forEach((item)=>{
+            item.classList.remove('select');
+            item.classList.remove('select1');
+            item.classList.remove('select2');
+            item.classList.remove('select4');
+          })
+          cardAll.forEach((item)=>{
+            item.classList.add('select5');
+          })
+
+          pagBtnAll.forEach((item,index)=>{
+            item.classList.remove('active');
+            if(index==5){
+              item.classList.add('active');
+            }
+          })
+
+        }
+
+        if(event.target.id=="pgbtn-7"){
+          cardAll.forEach((item)=>{
+            item.classList.remove('select');
+            item.classList.remove('select1');
+            item.classList.remove('select2');
+            item.classList.remove('select4');
+            item.classList.remove('select5');
+          })
+          cardAll.forEach((item)=>{
+            item.classList.add('select6');
+          })
+
+          pagBtnAll.forEach((item,index)=>{
+            item.classList.remove('active');
+            if(index==6){
+              item.classList.add('active');
+            }
+          })
+
+        }
+        
+      })
+      
+    }
+
+  })
+  
 }
 
 
