@@ -17,17 +17,17 @@
   {
     "src": "russia/yubilee/5ru/2019/crimebridg.png",
     "title": "5 рублей юбилейные",
-    "link": "10ru-bm.html"
+    "link": "5ruyub.html"
   },
   {
     "src": "russia/yubilee/2ru/2001/gagarin.jpg",
     "title": "2 рубля юбилейные",
-    "link": "10ru-bm.html"
+    "link": "2ruyub.html"
   },
   {
     "src": "russia/yubilee/1ru/1999/pushkin.jpg",
     "title": "1 рубль юбилейные",
-    "link": "10ru-bm.html"
+    "link": "1ruyub.html"
   },
   {
     "src": "russia/regular/1ru/1997/97_1R_R.gif",
@@ -52,22 +52,22 @@
   {
     "src": "russia/regular/1kop/1997/97_1k_R.gif",
     "title": "1 копейка регулярные",
-    "link": "10ru-bm.html"
+    "link": "1kopru.html"
   },
   {
     "src": "russia/regular/5kop/1997/97_5k_R.gif",
     "title": "5 копеек регулярные",
-    "link": "10ru-bm.html"
+    "link": "5kopru.html"
   },
   {
     "src": "russia/regular/10kop/1997/97_10k_R.gif",
     "title": "10 копеек регулярные",
-    "link": "10ru-bm.html"
+    "link": "10kopru.html"
   },
   {
     "src": "russia/regular/50kop/1997/97_50k_R.gif",
     "title": "50 копеек регулярные",
-    "link": "10ru-bm.html"
+    "link": "50kopru.html"
     
   }
 

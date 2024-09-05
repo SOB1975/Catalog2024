@@ -14,6 +14,10 @@ const id5ruyub = document.getElementById('5ruyub');
 import json5ruyub from './modules/5ruyubjson.js';
 const id2ruyub = document.getElementById('2ruyub');
 import json2ruyub from './modules/2ruyubjson.js';
+const id1ruyub = document.getElementById('1ruyub');
+import json1ruyub from './modules/1ruyubjson.js';
+const id1kopru = document.getElementById('1kopru');
+import json1kopru from './modules/1koprujson.js';
 //25ru create
 import createContent from './modules/create25ru.js'; 
 if(!!id25ru){
@@ -30,6 +34,12 @@ if(!!id5ruyub){
 }
 if(!!id2ruyub){
   createContent(json2ruyub(),id2ruyub);
+}
+if(!!id1ruyub){
+  createContent(json1ruyub(),id1ruyub);
+}
+if(!!id1kopru){
+  createContent(json1kopru(),id1kopru);
 }
 
 //json25ru
