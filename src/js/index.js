@@ -58,8 +58,8 @@ sideBarBtn();
 import productNumber from './modules/productnumber.js';
 productNumber();
 // calculator products
-import productCalc from './modules/productcalc.js';
-productCalc();
+// import productCalc from './modules/productcalc.js';
+// productCalc();
 // filter series
 // import seriesFilter from './modules/series.js';
 // seriesFilter();

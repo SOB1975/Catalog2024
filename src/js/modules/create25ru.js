@@ -1189,6 +1189,7 @@ for(let i=0;i<parsUserData.length;i++){
   let cardBoxOne = document.createElement('div');
   let cardBoxTwo = document.createElement('div');
   let cardBoxThree = document.createElement('div');
+  
   // add children for cardInfo and class card__box
   cardInfoBottom.appendChild(cardBoxOne).className="card__box";
   cardInfoBottom.appendChild(cardBoxTwo).className="card__box";
@@ -1212,6 +1213,7 @@ for(let i=0;i<parsUserData.length;i++){
 
   let cardPriceCountTxt = document.createElement('span');
   let cardPriceCount = document.createElement('div');
+  cardPriceCount.className="card__index";
   let cardPriceCountSpan = document.createElement('span');
 
   cardBoxTwo.appendChild(cardPriceCountTxt).innerText="Количество:";
@@ -1220,6 +1222,7 @@ for(let i=0;i<parsUserData.length;i++){
 
   let cardPriceAllTxt = document.createElement('span');
   let cardPriceAll = document.createElement('div');
+  cardPriceAll.className="card__priceall";
   let cardPriceAllSpan = document.createElement('span');
 
   cardBoxThree.appendChild(cardPriceAllTxt).innerText="За все:";
@@ -2329,8 +2332,95 @@ if(!!inYearBtn26){
     }
 
   })
+
+  // create Statistics
+  //количество всех продуктов в категории
+  const cardCountAll=document.querySelectorAll('.card');
+  // количество продуктов в коллекции
+  const cardCollAll=document.querySelectorAll('.card__on');
+  // количество отсутствующих продуктов
+  const cardAbsent=document.querySelectorAll('.card__off');
+  // вывод количество продукта в категории
+  const productCatAll=document.querySelector('.statistic__cat-stock');
+  productCatAll.innerHTML=cardCountAll.length;
+  //количество продукта в коллекции
+  const productCollAll=document.querySelector('.statistic__coll-stock');
+  productCollAll.innerHTML=cardCollAll.length;
+  // отсутствующие продукты
+  const productAbsent=document.querySelector('.statistic__coll-absent');
+  productAbsent.innerHTML=cardAbsent.length;
+  //==========================================================================
+  //вывод стоимости всех продуктов в категории
+  const сategoryPrice=document.querySelector('.statistic__cat-priceall');
+  //получаем все цены на продукты
+  const arrayPrice = document.querySelectorAll('.card__price');
+  //получаем все цены из коллекции 
+  const cardPriceAll=document.querySelectorAll('.card__priceall');
+  //вывод стоимости всех продуктов
+  const collPriceAll=document.querySelector('.statistic__coll-priceall');
+  //вывод стоимости отсутствующих продуктов
+  const absentPriceAll=document.querySelector('.statistic__col-priceabsent'); 
+  // 
+  let priceAll=0;
   
-}
+  arrayPrice.forEach((item)=>{
+    priceAll+=Number(item.childNodes[0].data);
+      if(!!сategoryPrice){
+      сategoryPrice.innerHTML=priceAll;
+    }
+  })
+
+  let productPriceAll=0;
+
+  cardPriceAll.forEach((item)=>{
+    productPriceAll+=Number(item.childNodes[0].data);
+      if(!!collPriceAll){
+      collPriceAll.innerHTML=productPriceAll;
+    }
+  })
+
+  let absent=0;
+  console.log(cardAbsent);
+  
+
+  cardCountAll.forEach((item)=>{
+    console.log(item);
+    
+    // absent+=Number(item.childNodes[0]);
+    // console.log(absent);
+    
+    // absent+=Number(item.childNodes[0].data);
+    // if(!!absentPriceAll){
+    //   absentPriceAll.innerHTML=absent;
+    // }
+  })  
+  //  for (let i = 0; i < arrayPrice.length; i++){
+    
+  //   priceAll+=Number(arrayPrice[i].childNodes[0].data);
+  //   if(!!coinsCategoryPrice){
+  //     coinsCategoryPrice.innerHTML=priceAll;
+  //   }
+    // console.log(priceAll);
+    
+    // console.log(arrayPrice[i].childNodes[0].data);
+   }
+   
+   
+  // console.log(arrayPrice);
+  // arrayPrice.forEach((item)=>{
+  //   // console.log(item.childNodes[0].nodeValue);
+  //   // console.log(item.childNodes);
+  //   // let priceAll=0;
+  //  let priceAll=+Number(item.childNodes[0].nodeValue);
+    
+  //   console.log(priceAll);
+  //   // coinsCategoryPrice.innerHTML+=Number(priceAll);  
+  //   // coinsCategoryPrice.innerHTML=+item.childNodes[0].nodeValue;
+  // })
+  
+
+   
+// }
 
 
 
