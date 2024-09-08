@@ -235,6 +235,58 @@ function json1kopru(){
       "color": "card__on",
       "link": "https://cbr.ru/cash_circulation/coins/1k/"
     },
+    {
+      "img": "./img/coins/russia/regular/1kop/2006/06_1k_M.jpg",
+      "imgrev": "./img/coins/russia/regular/1kop/2006/06_1k_M_R.jpg",
+      "md": "./img/other/m.png",
+      "title": "1 копейка 2006",
+      "text": "Регулярный выпуск",
+      "desc":  "Стоимость:",
+      "price": "40",
+      "count": "1",
+      "info": "В наличии",
+      "color": "card__on",
+      "link": "https://cbr.ru/cash_circulation/coins/1k/"
+    },
+    {
+      "img": "./img/coins/russia/regular/1kop/2006/06_1k_S.jpg",
+      "imgrev": "./img/coins/russia/regular/1kop/2006/06_1k_S_R.jpg",
+      "md": "./img/other/sp.png",
+      "title": "1 копейка 2006",
+      "text": "Регулярный выпуск",
+      "desc":  "Стоимость:",
+      "price": "10",
+      "count": "1",
+      "info": "В наличии",
+      "color": "card__on",
+      "link": "https://cbr.ru/cash_circulation/coins/1k/"
+    },
+    {
+      "img": "./img/coins/russia/regular/1kop/2007/07_1k_M.jpg",
+      "imgrev": "./img/coins/russia/regular/1kop/2007/07_1k_M_R.jpg",
+      "md": "./img/other/m.png",
+      "title": "1 копейка 2007",
+      "text": "Регулярный выпуск",
+      "desc":  "Стоимость:",
+      "price": "40",
+      "count": "1",
+      "info": "В наличии",
+      "color": "card__on",
+      "link": "https://cbr.ru/cash_circulation/coins/1k/"
+    },
+    {
+      "img": "./img/coins/russia/regular/1kop/2007/07_1k_S.jpg",
+      "imgrev": "./img/coins/russia/regular/1kop/2007/07_1k_S_R.jpg",
+      "md": "./img/other/sp.png",
+      "title": "1 копейка 2007",
+      "text": "Регулярный выпуск",
+      "desc":  "Стоимость:",
+      "price": "10",
+      "count": "1",
+      "info": "В наличии",
+      "color": "card__on",
+      "link": "https://cbr.ru/cash_circulation/coins/1k/"
+    },
     
   ]
   return json1kopru;
