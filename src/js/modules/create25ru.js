@@ -2168,16 +2168,15 @@ if(!!inYearBtn26){
   }
   // all buttons nav-pagination__btn
   const pagBtnAll=document.querySelectorAll('.nav-pagination__btn');
-  // console.log(pagBtnAll);
+
   pagBtnAll.forEach((item)=>{
+
     if(!!item){
-      // console.log('ИСТИНА');
+
       item.addEventListener('click',(event)=>{
-        // console.log(event.target.id);
-        console.log(event);
         
         if(event.target.id=="pgbtn-1"){
-          // console.log('ИСТИНА');
+
           cardAll.forEach((item)=>{
             item.classList.remove('select1');
             item.classList.remove('select2');
@@ -2186,9 +2185,11 @@ if(!!inYearBtn26){
             item.classList.remove('select5');
             item.classList.remove('select6');
           })
+
           cardAll.forEach((item)=>{
             item.classList.add('select');
           })
+
           pagBtnAll.forEach((item,index)=>{
             item.classList.remove('active');
             if(index==0){
@@ -2358,9 +2359,11 @@ if(!!inYearBtn26){
   const cardPriceAll=document.querySelectorAll('.card__priceall');
   //вывод стоимости всех продуктов
   const collPriceAll=document.querySelector('.statistic__coll-priceall');
+  //===========================================================================
   //вывод стоимости отсутствующих продуктов
-  const absentPriceAll=document.querySelector('.statistic__col-priceabsent'); 
-  // 
+  const absentPriceAll=document.querySelector('.statistic__coll-priceabsent'); 
+  const cardIndex=document.querySelectorAll('.card__index');
+
   let priceAll=0;
   
   arrayPrice.forEach((item)=>{
@@ -2380,48 +2383,31 @@ if(!!inYearBtn26){
   })
 
   let absent=0;
-  console.log(cardAbsent);
-  
 
-  cardCountAll.forEach((item)=>{
-    console.log(item);
+  cardIndex.forEach((item,index)=>{
+
+    if(item.childNodes[0].data==0){
+      // absentPriceAll.innerHTML=0;
+      // console.log(item.childNodes[0].data);
+      absent+=Number(arrayPrice[index].childNodes[0].data);
+      
+      if(!!absentPriceAll){
+        console.log('ИСТИНА ТУТ');
+        console.log(absent);
+        absentPriceAll.innerHTML=Number(absent);
+        
+      }
+      
+    } 
+    else{
+      // console.log('ИСТИНА ЗДЕСЯ');
+      
+      // absentPriceAll.innerHTML=0;
+      
+      
+    }
     
-    // absent+=Number(item.childNodes[0]);
-    // console.log(absent);
-    
-    // absent+=Number(item.childNodes[0].data);
-    // if(!!absentPriceAll){
-    //   absentPriceAll.innerHTML=absent;
-    // }
   })  
-  //  for (let i = 0; i < arrayPrice.length; i++){
-    
-  //   priceAll+=Number(arrayPrice[i].childNodes[0].data);
-  //   if(!!coinsCategoryPrice){
-  //     coinsCategoryPrice.innerHTML=priceAll;
-  //   }
-    // console.log(priceAll);
-    
-    // console.log(arrayPrice[i].childNodes[0].data);
-   }
-   
-   
-  // console.log(arrayPrice);
-  // arrayPrice.forEach((item)=>{
-  //   // console.log(item.childNodes[0].nodeValue);
-  //   // console.log(item.childNodes);
-  //   // let priceAll=0;
-  //  let priceAll=+Number(item.childNodes[0].nodeValue);
-    
-  //   console.log(priceAll);
-  //   // coinsCategoryPrice.innerHTML+=Number(priceAll);  
-  //   // coinsCategoryPrice.innerHTML=+item.childNodes[0].nodeValue;
-  // })
-  
-
-   
-// }
-
-
+}
 
 export default createContent;
