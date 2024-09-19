@@ -136,6 +136,21 @@ function json2ruyub(){
       "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5010-0008"
     },
     {
+      "img": "./img/coins/russia/yubilee/2ru/2001/gagarin.jpg",
+      "imgrev": "./img/coins/russia/yubilee/2ru/2001/2RU01-2.jpg",
+      "md": "./img/other/none.png",
+      "title": "2 рубля 2001",
+      "text": "40-летие космического полета Ю.А. Гагарина (без знака)",
+      "desc":  "Стоимость:",
+      "price": "10000",
+      "count": "1",
+      "info": "В наличии",
+      "color": "card__on",
+      "dataseries": "data-series = series-1",
+      "datayear": "data-year = year-2",
+      "link": "https://cbr.ru/cash_circulation/memorable_coins/coins_base/ShowCoins/?cat_num=5010-0008"
+    },
+    {
       "img": "./img/coins/russia/yubilee/2ru/2012/2RU12-1.jpg",
       "imgrev": "./img/coins/russia/yubilee/2ru/2012/2RU12-18.jpg",
       "md": "./img/other/mmd.jpg",
