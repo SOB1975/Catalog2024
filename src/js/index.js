@@ -18,6 +18,8 @@ const id1ruyub = document.getElementById('1ruyub');
 import json1ruyub from './modules/1ruyubjson.js';
 const id1kopru = document.getElementById('1kopru');
 import json1kopru from './modules/1koprujson.js';
+const id5kopru = document.getElementById('5kopru');
+import json5kopru from './modules/5koprujson.js';
 //25ru create
 import createContent from './modules/create25ru.js'; 
 if(!!id25ru){
@@ -40,6 +42,9 @@ if(!!id1ruyub){
 }
 if(!!id1kopru){
   createContent(json1kopru(),id1kopru);
+}
+if(!!id5kopru){
+  createContent(json5kopru(),id5kopru);
 }
 
 //json25ru
